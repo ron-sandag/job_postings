@@ -1,944 +1,648 @@
-Company Name,Count,Median Salary
-#twiceasnice Recruiting,5,60000.0
-24 Hour Fitness,2,
-3E,1,
-3Q Digital,3,
-4Liberty,1,
-"7-Eleven, Inc.",1,
-A.M. Ortega Construction,1,
-ABI,1,40000.0
-ACE,1,
-ACES (Autism Comprehensive Educational Services),1,48001.0
-AHC home health care,1,46000.0
-AIDS Healthcare Foundation,1,
-AJX Homes,1,35000.0
-AKCEA Therapeutics,2,
-AMVETS Department of California Service Foundation,1,
-APPLIED COMPOSITES INC,1,
-APR Consulting Inc,5,37566.0
-AQUASPY,1,
-ASML,1,
-ASR International Corp,1,
-ATI Worldwide Logistics Inc,1,31305.0
-ATLANTIC COAST COTTON,1,50000.0
-Abbott Laboratories,2,
-Absalom Home Health Agency,1,31305.0
-"AccentCare, Inc.®",2,
-Accenture,4,
-Acet,1,
-AchieveBio,1,
-Acrisure LLC,1,
-Actalent,7,41740.0
-Activision,1,
-Adagene Incorporated,1,
-Adjoin,1,48001.0
-Advanced Medical Corp.,1,
-Advanced Test Equipment Rentals,2,
-Advin Biotech,1,
-Aero Auto Repair,1,32590.0
-Aerotek,9,37566.0
-African Salihiya Cargo California,1,27131.0
-Ajinomoto Bio-Pharma Services,3,
-Akraya Inc.,1,
-Alimentiv,1,
-Alion Science and Technology,1,
-All American Plastic and Packaging,1,37566.0
-All Nation Security Services Inc,1,
-"All One God Faith Inc., DBA: Dr. Bronner’s Magic...",2,
-All in One Communication & Construction,1,41600.0
-Allcare Nursing Services,1,
-Allied Universal,8,
-Allscripts,1,
-Alutiiq,2,
-Alvarado Parkway Institute,1,
-Amaya Springs Health Care Center,1,
-Amazon HVH,1,
-Amazon Workforce Staffing,6,33392.0
-Amazon.com Services LLC,9,
-"Amee Bay, LLC",1,81393.0
-Amentum,1,
-American Water,1,
-Andersen Corporation,1,
-Andromeda Systems Incorporated,1,
-Anheuser-Busch,1,
-Anita's Housekeeping Referral Agency,1,56349.0
-Anjolee,1,41740.0
-Apple,4,
-Applied Restoration,1,
-Apria Healthcare,1,
-"Aquaneering, Inc.",1,41740.0
-Aquatica San Diego,1,
-Argen Corporation,1,
-Argo AI,1,
-Armis,1,
-Artiva Biotherapeutics,3,
-Aspen Medical,1,180840.0
-Aston Carter,9,39653.0
-At Your Home Familycare,2,31305.0
-Atria Wealth Solutions,1,
-Atrium CWS,1,
-Auto Club of Southern California,1,
-AutoZone,6,
-AvalonBay Communities,1,
-Aventus Logistics,1,33392.0
-Aviation Training Consulting,1,
-Avidity Biosciences,1,
-Avocado Family Dentistry - Dr. Thomas Brant,1,
-Avocado Post Acute,1,
-Axos Bank,5,
-Aya Corporate,4,57500.0
-Aztec Appliance,1,31305.0
-B Street Veterinary Hospital,1,
-BAE Systems,1,
-BASF Corporation,1,
-BPS Bioscience Inc.,1,42000.0
-BUICK GMC SDNC LLC,4,31305.0
-Bach to Rock Rancho Penasquitos,3,
-Bachem,1,
-"Bainbridge, Inc.",1,
-Baker Electric,1,
-Balboa Healthcare Inc,4,
-"Balboa Nephrology Medical Group, Inc",1,
-Bank of America,3,
-Barrio Logan College Institute,1,43827.0
-Baseband Telecom,1,
-BeWell Home Physical Therapy,1,146090.0
-Beacon Hill Staffing Group,1,
-Beacon Roofing Supply,1,
-Bella Vista Health Center,1,
-"Ben Bridge Jeweler, Inc.",1,
-Bering Straits Native Corporation,1,
-Berkshire Hathaway Homestate Companies,2,
-Bernardo Heights Country Club,2,
-Big Box Storage,1,45914.0
-Bimbo Bakeries USA,1,48001.0
-BioDuro,1,50000.0
-"BioFilm, Inc.",1,
-BioMed Realty,2,
-"Biocept, Inc.",1,62610.0
-Biolife Plasma Services,2,
-"Biomat USA, Inc.",1,
-Black & Veatch Corporation,1,
-Black Angus Chula Vista,2,
-Blue Ocean,2,35479.0
-Boarhog LLC,1,
-Body Fit Plus Inc,1,39653.0
-Bongiorno's,1,29218.0
-Booz Allen Hamilton,1,
-Boss-Play Escape Rooms,1,27131.0
-Boto Sushi,1,31305.0
-Boutique Recruiting,4,57500.0
-Boys & Girls Clubs of San Dieguito,1,45914.0
-Brain Corp,1,
-Brain Corporation,1,
-Bridge Home Health and Hospice,1,
-Brighton Place,1,
-Broadwell Behavioral,1,37566.0
-Brooks Brothers OpCo,1,
-BuildingTherapyLeaders.com,2,
-Buona Forchetta Encinitas,1,29218.0
-Burger King | California Food Management LLC,2,
-Burns & Wilcox,1,
-C-ME Trim Company Inc.,3,62610.0
-C3i Solutions an HCL Technologies Company,1,73045.0
-C7 alarm,1,58436.0
-CA-One Tech Cloud Inc,3,73045.0
-CCS Global Tech,1,
-CG Creative Studios,3,
-CHE Behavioral Health Services,2,
-CHUZE FITNESS,1,56349.0
-CIRE INVESTMENT SERVICES,1,
-"CIS Group, LLC",1,72000.0
-CJ Affiliate,1,
-CLEAR - Field,1,
-CMIT Solutions of Central RI,3,
-COHN RESTAURANT GROUP,1,
-COLES FINE FLOORING,1,33392.0
-CP Global,1,
-"CP Manufacturing, Inc.",1,
-"CROSSMARK, Inc.",1,
-CSL Staffing,1,33392.0
-"CUSO Financial Services, L.P.",3,
-CUTE CAKES,2,29218.0
-CVS Health,2,
-CVS Health Retail,3,
-Caesars Entertainment,1,
-Caliber Home Loans,1,
-California Aeronautical University,1,
-California Coast Credit,1,
-California Department of Justice,1,63768.0
-California Department of Veteran Affairs,1,40044.0
-"California Home Builders, Inc.",1,52175.0
-California Public Utilities Commission,9,45384.0
-California State University,18,40752.0
-Cannabis 21+,3,
-"Canon Business Process Services, Inc.",2,35479.0
-Canteen,1,
-Capital Financial Management,1,41740.0
-Cardea Bio,1,80000.0
-Cardinal Health,1,
-Career Systems Development,1,
-Carmel Mountain Ranch Veterinary Hospital,1,
-Carte Hotel,2,
-Casa Cornelia Law Center (CCLC),1,41740.0
-Casa Palmera,1,
-Casey Gerry Schenk Francavilla Blatt & Penfield...,1,45914.0
-Castillejos Eye Institute Medical Group,1,115000.0
-Castle Contracting,1,
-Caterpillar,1,
-Center For Discovery,1,
-"Center for Autism and Related Disorders, Inc.",1,
-Center for Employment Opportunities,1,40000.0
-Chandler Asset Management Inc,1,
-Charger Logistics,2,
-Chef Works Inc,1,48001.0
-Cherokee Nation Businesses,1,
-Chowking National City,1,33392.0
-Church's Chicken,2,22957.0
-Cintas,1,
-"City of Carlsbad, CA",1,56349.0
-"City of Coronado, CA",1,59580.0
-"City of El Cajon, CA",1,52175.0
-City of Encinitas,2,61884.0
-City of Escondido,3,34714.0
-"City of National City, CA",1,38088.0
-"City of Oceanside, CA",3,46548.0
-"City of Poway, CA",1,60000.0
-City of San Diego,9,54267.0
-"City of Vista, CA",1,43476.0
-Clean Harbors,1,49000.0
-ClearPlan,1,
-Clinical Management Consultants,1,102189.0
-"CocuSocial, Inc.",1,45675.0
-ColRich,2,
-Collage Home and Community Rehabilitation Partners,1,
-Collins Aerospace,1,
-Commonwealth Financial Network,3,
-Commonwealth Packaging Company,1,45000.0
-Community HousingWorks,1,
-Community Research Foundation,4,
-Community Research Foundation (CRF),1,39653.0
-CompHealth,2,
-Coneybeare,2,60000.0
-Confidential,3,52175.0
-Constellis,1,
-Consumers Alliance Processing Corp.,1,50000.0
-Contact Solutions,1,45914.0
-Continental Maritime of San Diego,3,50000.0
-Cooley LLP,1,
-CorTech,2,61566.5
-CoreCivic,3,
-Coronado Yacht Club,1,45914.0
-Cortex,3,
-Cortica,1,
-County of San Diego,25,65894.5
-CovalentCreative,1,
-Cox Communications Inc,1,44562.0
-Cross Country Allied,1,
-Cubic Corporation,1,85000.0
-Cue Health,3,
-CyberCoders,6,105000.0
-Cycle Gear,5,31305.0
-"Cytek Biosciences, Inc.",1,
-DISH,1,
-DLA Piper,1,
-"DREAMANAGER, Inc.",1,200000.0
-DSV,2,
-DaVita,3,
-"David York's Tax Service, Inc.",1,41740.0
-Davidson Hospitality Group,1,
-Del Amo Motorsports,1,
-Deloitte,11,
-Delphinus Engineering,1,
-Delta,1,
-Dent Wizard International,1,
-Dental Views,1,
-"Destination Concepts, inc",1,65000.0
-Devil Mountain Wholesale Nursery,1,52175.0
-Dexcom,2,41740.0
-Diaconia LLC,1,
-"DigiStream Investigations, Inc.",1,33392.0
-Digital Force Technologies,1,33392.0
-Dilliard Chiropractic P.C.,1,45914.0
-Dirt King Fabrication,2,33392.0
-Disability Rights California,1,48001.0
-"Discover Echo, a BICO company",1,
-Domestic Uniform Rental,1,
-"DoorDash, Inc.",1,
-"Dorrington Realty Associates, Inc.",1,37566.0
-Douglas-Guardian,1,31305.0
-Downtown San Diego Partnership,1,37566.0
-Dudek,1,
-Dynasty Consulting Group,1,50000.0
-EDF Renewables,3,
-EPC Power Corp,1,
-"ESET, LLC",1,
-ESFM,3,
-ETONBIO INC,1,33392.0
-East Coast Repair & Fabrication,1,58436.0
-Eastridge Workforce Solutions,1,78000.0
-Edventure More,1,52175.0
-Edward Jones,2,
-El Pollo Loco,1,
-Element Biosciences,3,
-Elemy,5,
-Eli Lilly,1,
-Emagine IT,1,
-Emcor,1,
-Enagic USA,2,
-"Epiq Systems, Inc.",1,
-"Epitope Diagnostics, Inc.",2,57000.0
-Epsilon Systems Inc,2,
-Equus Workforce Solutions,2,
-Ergeon,1,62610.0
-Eufora International,1,41740.0
-"Event Network, LLC",1,45914.0
-Everlight Solar,1,80000.0
-Evolution Research Group,1,
-Exact Sciences Corporation,1,
-Excel Hotel Group,1,
-Exela Technologies,1,
-ExploreMyPC,2,
-Express Ambulance,1,33392.0
-Express Trading International,1,43827.0
-Extended Stay America,2,
-Eye Care of San Diego,1,37566.0
-FAR Inspections,1,31305.0
-FLOWER CO.,1,65000.0
-"FOX Factory, Inc.",1,65000.0
-Fairfield Residential,1,
-Family Dollar,2,
-Family Health Centers of San Diego,2,75000.0
-Fastenal,2,
-Fate Therapeutics,2,
-Feast & Fareway,1,73045.0
-FedEx Express,3,41740.0
-FedEx Ground Careers US,2,
-FedEx Ground PH US,1,
-FedEx Services,1,
-Fidelity Investments,2,
-Filtrous,3,60000.0
-First Student,1,35479.0
-First Transit,4,33392.0
-Flock Freight,1,
-Fluidra North America,1,
-Fogo de Chao,1,
-ForTec Medical,1,
-Forensic Analytical Consulting Services,1,45914.0
-"Fortis Industries, Inc. DBA - LTS, Inc.",2,
-Foundation for Grossmont & Cuyamaca Colleges,1,75000.0
-Freedom Within Therapy and Wellness Center,1,39653.0
-Freeway Insurance,1,55000.0
-Fresenius Medical Care,2,
-Frito-Lay North America,1,61308.0
-Front Porch,3,40696.5
-GC Services Limited Partnership,1,35479.0
-GEICO,2,51044.0
-GEICO San Diego Office,1,43827.0
-GG Advisors LLC,2,62500.0
-GKN Aerospace,1,
-GLOBERUNNERS INC,1,50000.0
-GTM Companies LLC,1,39653.0
-GUIDE,1,52175.0
-Gamma Scientific Inc,1,70000.0
-Garden Communities CA,1,
-Gavin de Becker & Associates,1,65000.0
-General Atomics and Affiliated Companies,13,
-General Dynamics Information Technology,1,
-"Genomatica, Inc",2,
-"Genomatica, Inc.",2,
-Gexpro,1,
-Gilmartin Group,1,
-Glanbia Nutrionals,1,54262.0
-GoFor,1,
-Golden Door,1,
-Goodwill Industries of San Diego County,3,
-Google,1,
-Grand Hyatt San Diego,1,
-Great Camp Sagamore,1,47500.0
-Green Frog House Cleaning,1,66300.0
-GreenLiving,1,50000.0
-Greenwood Memorial Park,1,
-Griffis Residential,1,
-Grifols,2,
-Grocery Outlet Operators,1,90000.0
-Grossmont Healthcare District,2,52500.0
-Grossmont Union High School District,1,74000.0
-Group SSI,1,
-Guild Mortgage,1,
-H&R Block,2,35479.0
-HME,1,
-Hagerty Consulting Inc,1,
-Hallcon,1,31200.0
-Hallmark,2,
-"Hanna Interpreting Services, LLC",3,35479.0
-Harley Ellis Devereaux,2,
-Harvest Kitchen Catering,1,
-Haulsey Engineering,1,37773.0
-Healthstore,1,
-Helix,2,
-Helix Electric,1,
-"Helix Electric, Inc.",1,
-Hertz,1,
-Hilton,1,
-Hilton Grand Vacations,2,
-Hilton San Diego/Del Mar,1,
-Hollandia Dairy,1,35479.0
-Home Care Organization,1,31305.0
-Home Depot,1,
-HomeGoods,1,
-Homewood San Diego Mission Valley,3,
-Horizon Oxygen and Medical Equipment,1,45914.0
-Hotel Republic San Diego,1,
-Howard Hughes Medical Institute,1,
-Human BioMolecular Research Institute,1,62610.0
-Hunter Industries,1,
-Hyatt Regency La Jolla,1,
-Hyatt Regency Mission Bay Spa and Marina,2,
-I LOVE BAGELS,1,33392.0
-ICW Group,1,
-"IDE Americas, Inc",1,52175.0
-IES Communications,1,62610.0
-"INDUS Technology, Inc.",21,
-"IRRAS USA, Inc.",1,
-IVD Solutions,1,62610.0
-Illumina,2,
-Image Property Services,1,
-Imaging Healthcare Specialists,1,
-Impact Healthcare,4,
-Imperial Beach Community Clinic,1,
-Imperial Beach Optometry,1,20870.0
-In-N-Out Burger,1,35479.0
-Indeed Gigs,3,
-Industry Threadworks,1,42000.0
-Infant Hearing Screening Specialists,1,
-Infinity Home Lending LLC,1,80000.0
-"Inner Core Capital, Inc.",1,37566.0
-Innovative Cold Storage Enterprises Inc,1,
-Innovative Employee Solutions,2,
-Innovive LLC,1,50000.0
-Inside Sales Staffing Corp.,1,
-Insight Global,1,31305.0
-Integrated DNA Technologies (IDT),1,
-InterSolutions,2,
-Interfaith Community Services,2,
-J/PR,1,52175.0
-JB Software & Consulting,2,44870.5
-"JELD-WEN, inc",3,41740.0
-JKC Automotive,2,
-JLL,2,
-"JPMorgan Chase Bank, N.A.",1,
-"JSL Technologies, Inc.",1,
-Jack In The Box | Jack in the Box,1,
-Jack in the Box,1,
-Jackson and Foster Heating and Air Conditioning,1,65000.0
-Jamul Casino,1,
-Janus Networks,1,
-Jersey Mike's Subs,1,29218.0
-Jet Products,1,
-Jewish Family Service of San Diego,8,41740.0
-Johnson & Johnson Family of Companies,1,
-Jon Renau Collection Inc. TS,1,60000.0
-K2 claims Services,1,
-KATMAI,1,
-KIPP Texas Public Schools,1,40000.0
-KNOCKAROUND,1,
-KPMG,2,
-KROS-WISE,2,
-KWSM,2,
-Kaiser Permanente,6,
-Kdflooring and Installations,1,52175.0
-Keller Williams San Diego Metro,1,60000.0
-"KiddieCorp, Inc",1,37566.0
-Kimley-Horn,2,
-KinderCare Education,4,
-KinderCare Learning Centers,1,
-Kindred Hospitals,3,
-KindredSold.com,1,80000.0
-Kitchens for Good,1,52175.0
-Knowles Precision Devices,1,
-"Koning & Associates, Inc.",1,60000.0
-Kontron America Inc Jobs,2,
-Koverse,1,
-LA Solar Group Inc,1,35479.0
-LAZ Parking,1,35479.0
-LEMON GROVE SCHOOL DISTRICT,1,59433.0
-LSL CPAs,1,
-"La Jolla Beach & Tennis Club, Inc.",3,
-La Jolla Family Smile Design,1,45914.0
-La Jolla Institute for Immunology,1,
-La Mesa RV Center,1,37566.0
-Labcorp,1,
-Labor Finders,2,42783.5
-Landings Real Estate Group,1,
-Laurel Springs School,1,
-Law Offices of Todd E. Kobernick,1,66784.0
-Le Parfait Paris,2,64697.0
-"Learning Services, A Collage rehabilitation...",2,
-Legacy International Center,1,
-Leidos,3,
-Leos Lakeside Pharmacy,1,29218.0
-Liberty Healthcare Corporation,1,
-Liberty Military Housing,3,
-Library Systems & Services Llc,1,
-Life Cycle Engineering,1,
-LifePro Financial Services,1,40000.0
-Lifespan Physical Therapy Services,1,31305.0
-LightBridge Hospice & Palliative Care,1,
-Lime,1,
-Lincare Healthcare,1,35479.0
-Lincoln Property Company,1,
-Linh Huynh Insurance and financial services,1,41000.0
-LitePoint,1,
-Loews Hotels & Co.,1,
-Longboard Pools,1,41740.0
-Los Robles Healthcare,1,
-Louis Vuitton Malletier,1,
-Love Scrubs LLC,1,35479.0
-LumenVox,1,
-Luna Grill,1,
-LuxurySold.com at SD,1,33000.0
-"M S International, Inc",1,46560.0
-"MANSCAPED, Inc",1,52175.0
-MAXIMUS,1,41740.0
-MHA Properties,1,56000.0
-MICRO PRECISION CALIBRATION INC,1,
-MISSION FEDERAL CREDIT UNION,1,
-MLB Data Operations,2,
-"MOBILITY SOLUTIONS, INC.",1,
-Mancon Inc.,1,
-Marine Corps Community Services,5,50870.0
-Marriott Del Mar,2,
-"Marriott International, Inc",6,
-Martin Marietta Materials,2,
-"Mauzy Heating, Air & Solar",1,45914.0
-McAlister Institute,1,35479.0
-"Means Engineering, Inc.",1,
-Measurabl,2,
-MedImpact Healthcare Systems,1,
-MedSpeed,1,37566.0
-MediExcel Health Plan,1,
-Medical Oncology Associates of San Diego,1,39653.0
-Meggitt,1,
-Mehvya Alliance,1,41600.0
-Men's Wearhouse,2,
-Menzies Aviation,1,35479.0
-Merakey,1,
-Mercedes Benz of El Cajon,1,
-Mercedes Benz of San Diego,1,
-Meritor,1,
-Mi Guadalajara Restaurant,1,31305.0
-Mid-Cal Technical,1,62610.0
-MiraCosta College,1,81264.0
-"Mission Healthcare Services, Inc.",1,60000.0
-Molecular Devices,1,
-Molly Maid of East & South County,1,31305.0
-Montblanc North America,1,
-"Montbleau & Associates, Inc.",2,41740.0
-Moonlight and Sage Shop,1,27131.0
-Moore & Associates,2,39653.0
-Morgan Business Consulting (MBC) LLC,1,
-Morris Cerullo World Evangelism,1,
-Morrow-Meadows Corporation,1,
-Mortgage Broker North County,1,110000.0
-"Mortgage Capital Trading, Inc",1,41740.0
-Mossy Nissan El Cajon,1,
-Mossy Nissan Poway,5,
-Motel 6/Studio 6,1,
-Museum of Contemporary Art San Diego,1,
-Mutual of Omaha Mortgage,1,
-Mycrodose Therapeutics,1,52175.0
-Myriad Industries,1,37566.0
-NAVFAC Southwest,1,48890.0
-NCTD,3,60320.0
-NICE CXone,1,
-National Funding,1,
-National Investigative Training Academy,1,
-National Resilience,1,
-National Steel and Shipbuilding Com,3,
-National University,3,
-Nationwide Skilled Trades,1,33392.0
-Native Microbials Inc,1,
-Natural Alternatives International Inc,1,43827.0
-Navy Exchange Service Command,1,88880.0
-Navy Federal Credit Union,1,
-Neighborhood House Association,2,46957.5
-NeoGenomics Laboratories,1,
-Neotech,1,73045.0
-Netradyne,1,
-New Balance,2,
-New Wave Chiropractic Center,1,33392.0
-NewSchool of Architecture & Design,1,
-"NexLevel, Inc.",1,109000.0
-NielsenIQ,1,
-Nomad Health,1,268632.0
-North County Lifeline,1,35479.0
-North Island Credit Union,1,
-Northrop Grumman,13,57700.0
-Norton Staffing and Recruiting Group,1,75000.0
-"O'Connor Construction Management, Inc.",1,
-"OES Equipment, LLC",1,
-Oakmont Senior Living,2,58436.0
-"Octapharma Plasma, Inc.",1,
-Ohio Shared Information Services Inc,1,
-Old Dominion Freight Line,1,
-One Federal Solution,1,
-One Stop,1,48001.0
-OnePoint HCM,1,37566.0
-OneSource Distributors,1,
-Oremor Automotive Group,1,
-Organifi,1,
-Otay Water District,1,81393.0
-PAE,2,
-PBO Advisory Group,1,
-PCL Construction,1,
-"PESC - Urgent Care 5200 Jackson Drive La Mesa,...",2,
-PETRA STONE LLC,3,37000.0
-"PG Environmental, LLC",1,40000.0
-"PMG, Inc.",4,60523.0
-PODS,1,35479.0
-PPG Industries,1,
-PRI Productions,1,
-PRICE WATERHOUSE COOPERS,7,
-PROPULSION CONTROLS ENGINEERING LLC,1,
-PacBio,1,
-Pacific Coast Commercial,1,33392.0
-Pacific Sotheby's International Realty,1,37566.0
-Pacific Trellis Fruit,1,
-Pacific Wyyerd,2,75000.0
-Pacifica Companies,3,
-Pacifica Senior Living,1,
-Pain Relief Solutions,2,
-Pala Casino Spa & Resort,1,
-Palomar Health Medical Group,6,
-Paradise Valley Healthcare Center Inc,1,
-Park Hyatt Aviara Resort,1,
-Pars Financial,1,40000.0
-Paychex Inc.,2,
-Payment Logistics,1,
-Pegasus Building Services,1,
-People Technology and Processes LLC,5,
-"People, Technology & Processes",1,
-PepsiCo,2,59300.0
-"Performance Cell Manufacturing, Inc.",1,
-Performance Contracting Group,1,37566.0
-PerkinElmer,3,
-Perlman Clinic,1,
-Petco,4,
-Pfizer,1,
-Philips,1,
-Pilot Property Management,1,
-Planned Parenthood of the Pacific Southwest,1,
-Plastic Surgery Center,1,37566.0
-Platform Science,1,
-Plus One Health Management,1,
-"Portrait Health, Inc",1,
-Positioning Universal Inc,1,
-Poway Animal Hospital,1,31305.0
-Precision Diagnostics,2,39653.0
-Premier BH,1,
-Premier Business Support,1,31305.0
-Prestige Autowash & Automotive,1,72000.0
-"Prevailance, Inc.",6,
-Prime Healthcare,11,
-PrimeFlight Aviation Services Inc,1,
-PrimeLending,1,
-ProSci Incorporated,2,34435.5
-ProVantage Corporate Solutions,1,31305.0
-Professional Contractor Supply,1,39653.0
-Prometheus Laboratories,1,43827.0
-Prospect Financial Group Inc,2,43757.0
-Proximity Diagnostics,1,93600.0
-Public Consulting Group,2,
-Public Storage,3,33392.0
-Puesto,1,41740.0
-Purcell International Group,1,110000.0
-"Pure Financial Advisors, Inc.",1,
-Qdoba | Qdoba Restaurant Group,1,
-Quake Global,1,41740.0
-Qualcomm Incorporated,2,
-"Qualcomm Technologies, Inc.",1,
-Quality Mobile Fleet Services Inc,1,48001.0
-Quest Diagnostics,2,
-Quidel,2,
-Quintrix solutions,1,57000.0
-R+L Carriers,1,
-"R.S. Hughes Company, Inc.",2,
-RANDALL W. SMITH DDS,1,37566.0
-RBW SD Inc,1,
-RCI for Confidential Companies (hosted jobs),3,
-"RED KNIGHT SOLUTIONS, LLC",1,15600.0
-REQ,1,
-RF LOGISTICS,1,48001.0
-RG Alliance,1,45000.0
-"ROMA, MURPHY & HOROWITZ",1,
-RR Donnelley,1,
-Rady Children's Hospital-San Diego,3,
-"Raindrop Agency, Inc.",1,
-Ralphs Pharmacy,2,39653.0
-Rancho Santa Fe Protective Services,1,31305.0
-Randstad General Staffing,2,35479.0
-Rangam Consultants Inc.,2,43827.0
-Raso Solutions LLC,1,
-Rayo Homes,1,56349.0
-Realty Income,2,
-Recro CDMO,1,
-Red White and Bloom,1,
-Redhorse Corporation,1,
-Reef Point Real Estate,1,50000.0
-Remedy Processors,1,31305.0
-Residence Inn by Marriott Seattle Lake Union,1,33392.0
-Restaurant Depot,1,
-"Rev Agency, LLC.",1,
-Revature,2,
-Reveal Biosciences,1,
-Reyes Beer Division,1,
-Reyes Fleet Management,1,
-RideNow SoCal,1,
-"Right at Home La Jolla, CA",2,32348.5
-"Rincon Consultants, Inc",1,
-Rite Aid,1,
-Rivian Automotive,1,
-Roche,2,
-Rock West Composites,1,
-Rowan,2,
-Roya.com,2,
-Royalty Hospitality Staffing,1,45914.0
-Russian School Of Mathematics,1,
-SAC Wireless,1,
-SAIC,2,75001.0
-SBHIS,1,54262.0
-SC Fuels,1,
-"SCAN HealthCheck Assessment Centers, Inc",1,41740.0
-SD Medident,1,31305.0
-SHARP HEALTHCARE,1,
-SHELDON'S SERVICE STATION,1,27131.0
-SJS Studios Inc,1,52175.0
-SM&A,4,102263.0
-SOUTHCOAST WELDING,1,41740.0
-SPARK business academy,1,125220.0
-SPECTRUM,1,37566.0
-STERIS,1,
-Safeway,1,33392.0
-Saia LTL Freight,1,37566.0
-Saiko Sushi,1,31305.0
-Salt & Straw,1,31305.0
-Sam's Club,3,
-San Diego Center For Children,5,
-San Diego Community College District,4,
-San Diego County Credit Union,1,
-San Diego County Regional Airport Authority,1,
-San Diego HOA Property Management Company,1,60000.0
-San Diego Home Caregivers,1,41740.0
-San Diego Hunger Coalition,1,65000.0
-San Diego Loyal Soccer Club,1,41740.0
-San Diego Metropolitan Transit System,2,
-San Diego Reference Laboratory,1,31305.0
-San Diego Regional Center,1,66288.0
-San Diego Rescue Mission,2,
-San Diego Seals,1,
-San Diego State University,5,41280.0
-San Diego State University (Aztec Shops),2,
-San Diego State University Research Foundation,2,
-San Diego Youth Services,2,41600.0
-San Diego Zoo Wildlife Alliance,5,31305.0
-San Ysidro Health,2,
-Satechi,1,37566.0
-Saxon Engineering Services Inc,1,52175.0
-Schwartz & Schwartz,1,35479.0
-ScienceMedia Inc.,1,
-Scouting Heroes,1,
-Scripps Health,1,
-SeaWorld San Diego,2,50088.0
-Sean M Feely DDS,1,
-Seaport Scripps Home Health,1,
-Sedgwick,1,
-"SeenADriver, a division of Seenager I Amazon...",1,33392.0
-Sentara Halifax Regional Hospital,3,
-Serco North America,1,
-Serene Health,1,35479.0
-"Shamir Insight, Inc",1,
-Sharp Healthcare,41,
-Sharp Rees-Stealy Medical Group,2,
-Shugarman's Bath,1,33392.0
-Skechers,1,
-Smalley and Company,1,39653.0
-Snell & Wilmer,1,
-Societe Brewing,1,
-Sodexo,1,
-SolTech Inc.,1,
-Solaris,1,31305.0
-"Solecta, Inc.",1,
-Solimar Systems,1,
-Somisomi Soft Serve & Taiyaki,1,31305.0
-Sonata Hospice - San Diego,1,
-Sorrento Therapeutics,1,
-Source Bioscience,2,37566.0
-South Coast Medspa,1,45914.0
-Southern California Periodontics and Implantology,1,
-Southern Motorcycle Supply,1,35479.0
-Southwest Boulder & Stone,1,33392.0
-Southwestern Community College District,1,49836.0
-"Spathe Systems, LLC",1,
-Spine and Sport Physical Therapy,1,
-Splunk,1,75000.0
-Sprouts Farmers Market,8,
-St. Paul's Senior Services,1,
-St. Vincent De Paul Village,2,29218.0
-Standard Inspection Services,1,
-"Stanley, Black and Decker",1,
-Starbucks,1,
-Starside Security & Investigation,2,70958.0
-Stater Bros. Markets,1,
-Statewide Law Firm,1,
-Strategic Data Systems,1,55000.0
-Stryker,2,
-Sunfood Corporation,1,
-Supporting Strategies,1,
-Sweetgreen,1,
-Sycuan Casino,2,
-Sycuan Casino and Resort,2,66000.5
-Symple Logistics,1,100000.0
-Sysco,1,
-Systems Technology Forum,1,
-TAJ Health staffing,4,70958.0
-TEKsystems,1,118959.0
-THOMAS JEFFERSON SCHOOL OF LAW,1,
-THRIVE Affordable Vet Care,1,
-TIG,1,65000.0
-TJ Maxx,4,
-Tactical Engineering & Analysis Inc,1,
-"Taylor-Listug, Inc.",1,
-Technology Integration Group,1,39653.0
-Teradata,2,
-Tesla,6,56349.0
-TestEquity,1,
-The Ascendancy Group,1,
-The Cheesecake Factory,1,
-The Chicago School of Professional Psychology,1,48001.0
-The Dean Law Group,1,41740.0
-The Joint Chiropractic,1,
-The Linda Lee Team for Keller Williams Carmel...,1,50000.0
-The Marlin Alliance,1,
-The Pavilion at Ocean Point (2),1,
-The RiverStone Group,1,
-The Salvation Army Western USA,1,
-The Shipyard,2,
-The Simon Family Foundation,1,50000.0
-The Solis Group,1,
-The Super Dentists,1,41740.0
-"The Travelers Companies, Inc.",1,
-The University of St. Augustine for Health...,1,
-The WestBean Coffee Roasters,1,33392.0
-TheeBestPS,1,52175.0
-Tolman Media,1,156525.0
-Torrey Hills Dental,1,
-"Tovella Dowling, PC",1,
-Towne Park,1,
-Toyota Carlsbad,1,
-Toyota Escondido,1,78000.0
-Toyota of El Cajon,1,
-Trader Joe's,1,33392.0
-Tri City Healthcare District,1,
-TriMark USA,1,50088.0
-"Tridant Solutions, Inc",1,
-Trimco,1,48001.0
-Tristar Insurance,1,
-Triton Support Services,1,93915.0
-True Function Laboratory,1,58000.0
-TrueCare,1,
-Truist Financial,1,
-"Truly Nolen of America, Inc.",2,
-Tyonek Native Corporation,1,
-U.S. Bank,1,
-U.S. Legal Support,1,
-U.S. Marine Corps,1,60000.0
-UC San Diego,37,48900.0
-UNITED PARCEL SERVICE,2,
-US Colleges,1,
-US Defense Logistics Agency,1,89383.0
-US Navy Systems Management Activity,1,86724.0
-US Specialty Labs,1,41740.0
-USE Credit Union,2,
-USO,1,
-UST Global,2,
-Ultimate NeV LLC,1,
-Union Bank,1,
-Union Of Pan Asian Communities,1,43827.0
-"United Rentals, Inc.",1,
-United Way,1,55000.0
-UnitedHealth Group,1,
-"Unitis, Inc.",1,50000.0
-University of San Diego,3,
-Urban Optiks Optometry,1,33392.0
-"Urban Stone, Inc.",1,37566.0
-VSolvit LLC,1,
-Valet Living,1,37566.0
-Valley View Casino,3,
-Valley View Casino & Hotel,3,
-Ventura Kuehn & Associates,1,50000.0
-Ventus Aires,1,216000.0
-Veolia,1,41740.0
-Verge Mobile – a T-Mobile Premium Partner,1,
-Veridiam,2,
-Verimatrix,1,
-Verizon,1,
-Vert Environmental @ San Diego,2,70000.0
-"VetPowered, LLC",1,58436.0
-Veterans Medical Research Foundation of Sd,1,
-Veterans Village of San Diego,1,
-Veterinary Imaging Center of San Diego,1,52175.0
-Vi Living,1,
-Viasat,2,59000.5
-"Vikco Insurance Services, LLC",1,
-Village Square Healthcare Center,1,
-Vista Hill Foundation,2,41740.0
-Volt Workforce Solutions,2,37566.0
-Vulcan Materials Company,1,
-WALGREENS,2,
-WELLS FARGO BANK,2,
-WESTAT,1,
-WSP,1,
-Wake Research,1,
-Ware Malcomb,1,
-Wawanesa,1,52175.0
-Wawanesa Insurance,1,41740.0
-Weiland Sliding Doors and Windows,1,
-Weinerschnitzel,2,29218.0
-Wendy's - WKS,1,
-Werfen,1,
-West Coast Traffic Control,3,42783.5
-Westin Hotel | Grand Pacific Resorts,1,
-Westin San Diego,1,
-Wheel Fun Rentals,2,31305.0
-Wheelhouse Credit Union,1,
-Whitson CM,1,
-WinCo Foods,6,
-"Woongjin, Inc",1,
-Working Planet,1,
-Worldwide Flight Services Hiring Event - Ramp...,2,45914.0
-Wounded Warrior Project,1,
-WuXi AppTec Inc,1,
-Wyndham Destinations,1,33392.0
-XPeng Motors,1,
-"XST, Inc.",1,65000.0
-Xerox,1,
-YMCA,1,62400.0
-YMCA of San Diego County,2,62400.0
-YWCA of San Diego County,1,
-"Your Part-Time Controller, LLC",1,
-Zempleo Inc,1,
-Zeus Living,1,60000.0
-"Zipcar, Inc.",1,
-Zorang Technologies,1,70000.0
-Zovio,1,
-bioMérieux,1,
-eMortgageGuys,1,41740.0
-i3 Verticals,1,
-iPermit,1,37566.0
-iPermit Eraters,1,37566.0
-lmperfectFoods.com,1,37566.0
-pSemi,2,
-"the higgins group, llc",1,64697.0
-ticktBox Enterprises LLC,1,45000.0
-zHealth,1,45000.0
+Company Name,Job Openings,Median Salary,Agriculture Forestry Fishing and Hunting jobs,Mining Quarrying and Oil and Gas Extraction jobs,Utilities jobs,Construction jobs,Manufacturing jobs,Wholesale Trade jobs,Retail Trade jobs,Transportation and Warehousing jobs,Information jobs,Finance and Insurance jobs,Real Estate and Rental and Leasing jobs,Professional Scientific and Technical Services jobs,Management of Companies and Enterprises jobs,Administration & Support Waste Management and Remediation jobs,Educational Services jobs,Health Care and Social Assistance jobs,Arts Entertainment and Recreation jobs,Accommodation and Food Services jobs,Public Administration jobs,Other Services (excluding Public Administration) jobs,fast food jobs
+#twiceasnice recruiting,5,60000.0,0,0,0,0,0,1,0,0,5,3,0,0,3,0,0,1,2,0,0,1,0
+20 20 plumbing & heating inc.,5,33392.0,0,0,5,1,0,0,0,3,0,0,0,0,0,0,1,0,0,0,0,1,0
+24 hour fitness,6,32200.0,0,0,0,0,0,4,4,0,6,0,0,0,0,0,0,0,0,0,0,0,0
+3 d construction,4,33392.0,0,0,0,4,0,0,0,0,0,0,0,0,0,1,4,0,0,0,0,0,0
+3q digital,7,48750.0,0,0,0,0,0,0,1,0,7,3,0,0,1,0,0,0,0,0,3,0,0
+4liberty,7,49500.0,0,0,3,1,0,0,0,0,6,3,0,0,1,0,2,0,1,0,4,1,0
+"7 eleven, inc.",5,52500.0,0,0,0,0,0,0,2,0,0,0,0,0,3,0,0,0,0,0,0,0,1
+85c bakery cafe,3,31305.0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+a.m. ortega construction,5,,0,0,0,5,1,0,0,0,0,0,0,1,0,0,5,0,1,0,0,1,0
+abm industries,7,27700.0,0,0,1,0,0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,3
+"accentcare, inc.®",7,28100.0,0,0,0,5,0,0,1,0,0,0,0,0,1,0,0,5,1,0,0,7,0
+accenture,13,108500.0,0,0,2,1,1,1,1,0,9,2,0,1,4,0,0,0,1,0,0,1,0
+ace cash express,3,31305.0,0,0,0,0,0,2,3,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+ace parking management   sara,4,31305.0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,4,0,0,0,3,0
+"ace parking management, inc.",3,46500.0,0,2,0,0,0,0,0,0,0,0,0,0,3,0,0,3,0,0,0,0,0
+aces (autism comprehensive educational services),3,48001.0,0,0,0,0,0,0,3,0,0,1,0,2,1,0,3,2,2,0,0,0,0
+actalent,17,50088.0,1,0,0,0,0,0,2,0,0,0,0,9,1,1,0,3,0,0,0,0,0
+"action air conditioning, heating & solar",3,,0,0,3,3,0,0,0,0,3,0,0,0,0,0,1,0,0,0,1,0,0
+actionlink,4,37566.0,0,0,0,1,0,4,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+acuity eye group,5,28300.0,0,0,0,0,0,0,1,0,5,0,0,1,4,0,0,3,0,0,0,0,0
+acushnet company,4,58587.5,0,0,0,0,1,0,1,0,4,0,0,0,0,0,1,0,1,0,2,1,0
+adamo security group,4,65000.0,0,0,0,1,0,0,0,0,4,0,0,0,4,0,1,0,0,0,0,4,0
+advin biotech,4,29900.0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+aerotek,50,39653.0,1,0,1,8,21,0,2,8,10,0,0,17,2,6,5,1,2,0,2,6,0
+ajinomoto bio pharma services,3,,0,0,0,0,1,0,3,1,1,0,0,1,0,0,0,0,0,0,0,1,0
+ajinomoto windsor,3,30150.0,0,0,3,0,1,0,0,0,2,0,0,0,0,0,1,0,0,0,1,0,0
+ajm packaging,3,37566.0,0,0,1,0,3,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0
+akcea therapeutics,4,96800.0,0,0,0,0,0,1,2,0,0,0,0,1,3,0,0,0,0,0,1,0,0
+alexander's mobility services,3,34900.0,0,0,0,0,0,0,3,2,3,0,0,0,1,0,0,0,1,0,0,0,0
+alila marea,6,50700.0,0,0,0,2,0,0,0,0,0,0,0,1,4,0,0,0,0,0,0,0,1
+allied universal,28,41740.0,0,0,0,0,0,3,3,0,14,5,1,2,20,0,0,0,0,0,2,13,0
+allstate insurance,6,60000.0,0,0,0,0,0,4,2,0,0,6,0,0,4,0,0,0,0,0,6,0,0
+alutiiq,4,39500.0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0
+am ortega,4,,0,0,0,2,1,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0
+amaya springs health care center,3,61100.0,0,0,0,0,0,0,1,0,2,0,0,0,2,0,0,0,0,0,0,3,0
+amazon dsp driver,10,35479.0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,1,0,0,0,9
+amazon workforce staffing,24,33392.0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,10,10,0,0,0,4
+amazon.com services llc,25,,1,0,0,0,0,3,25,0,8,3,0,4,9,4,0,1,6,0,2,3,0
+american water,3,53100.0,0,0,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+americare health & retirement inc,4,26500.0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,4,0
+ampam parks mechanical,3,31000.0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,3,0,0,0,0,0
+andaz san diego,3,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2
+anderson,3,65000.0,0,0,0,0,0,2,0,0,0,3,0,0,3,0,0,0,0,0,0,0,0
+anthem,3,68600.0,0,0,0,0,0,0,1,0,0,1,0,0,3,0,0,1,1,0,1,1,0
+apple,10,,0,0,0,1,0,1,0,0,3,1,0,2,4,0,0,0,0,0,1,0,0
+appleone,15,52175.0,0,0,0,2,0,1,2,0,0,8,0,0,9,0,2,0,0,0,4,2,0
+apr consulting inc,7,37566.0,0,0,0,0,0,0,0,0,2,1,0,1,1,0,0,0,1,0,0,1,0
+arc of san diego,8,35479.0,0,0,0,0,0,0,0,0,2,0,5,2,2,0,0,0,2,0,0,2,0
+arcc center foundation,3,31305.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+arena staffing,4,39653.0,0,0,0,3,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0
+arrow electronics,3,96800.0,0,0,0,0,1,1,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+ars rescue rooter,3,34696.0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+artiva biotherapeutics,4,69400.0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,4,0,0,1,0
+ashley furniture,4,53152.5,0,0,0,0,0,3,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0
+asml,9,59300.0,0,0,1,0,0,0,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0
+aspen medical,3,170420.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,2,0
+aspired marketing,3,42500.0,0,0,0,0,0,0,1,0,0,3,0,0,1,0,0,0,0,0,0,1,0
+aston carter,36,41740.0,0,0,0,1,0,1,13,0,7,13,0,0,8,0,0,1,36,0,2,2,36
+at your home familycare,13,31305.0,0,1,0,13,0,0,0,0,1,0,0,0,0,0,0,6,0,0,0,13,0
+at&t,9,55965.0,0,0,0,0,0,6,8,0,0,0,0,1,9,0,0,0,0,0,1,0,0
+atria wealth solutions,3,74500.0,0,0,0,0,0,0,1,0,1,1,0,0,2,0,1,0,1,0,0,0,0
+atwork socal,4,35479.0,0,0,1,0,0,0,1,1,0,1,0,2,0,0,0,0,0,0,0,0,0
+auto body excellence,5,42300.0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,2,0
+autozone,6,,0,0,0,0,0,3,1,2,0,0,0,0,3,0,0,0,2,0,0,0,1
+avalonbay communities,3,,0,0,0,0,0,0,2,0,3,0,0,0,2,0,0,0,3,0,0,0,0
+aviva biosciences,6,,0,0,0,0,2,0,4,0,1,1,0,6,1,0,1,0,6,0,1,0,0
+axos bank,16,51700.0,0,0,0,0,0,1,1,0,7,16,0,1,5,0,1,0,1,0,1,0,0
+aya corporate,5,58436.0,0,0,0,0,0,0,2,0,0,1,0,0,3,0,0,0,1,0,1,1,0
+aya healthcare,3,126360.0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,3,1,0,0,3,0
+bach to rock rancho penasquitos,3,,3,0,0,0,0,0,0,0,3,0,0,0,0,0,3,0,1,0,0,0,3
+bae systems,6,,0,0,0,2,0,0,0,0,6,1,0,1,2,0,0,0,0,0,0,2,0
+bahia resort hotel,4,33392.0,0,0,0,0,0,2,2,0,1,0,0,0,2,0,0,0,0,4,0,1,1
+balboa healthcare inc,6,41000.0,0,0,0,0,0,0,1,0,0,1,0,0,2,1,1,6,0,0,2,6,0
+banfield pet hospital,4,47900.0,0,4,0,4,0,0,0,0,4,0,0,4,0,0,0,0,0,0,0,0,0
+bank of america,4,,0,0,0,0,0,0,2,0,0,4,0,0,2,0,0,0,0,0,0,0,0
+barona resort & casino,6,31746.0,0,0,1,0,0,0,0,0,2,0,0,0,3,0,0,0,0,1,0,1,0
+basf corporation,4,89900.0,0,0,0,0,0,1,1,0,0,0,0,3,0,0,0,0,1,0,0,1,0
+bath & body works,5,31200.0,0,0,0,5,0,2,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+bd,34,,0,0,0,2,2,5,8,2,9,4,0,5,19,0,4,0,1,0,5,6,1
+behavior frontiers,3,37566.0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,3,3,0,0,0,0
+bergelectric,3,40200.0,0,0,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+best buy,3,45914.0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+better buzz coffee company,3,25450.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+bill howe plumbing,3,,0,0,3,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+bionano genomics,5,68900.0,0,0,0,0,0,1,2,0,1,1,0,1,2,0,1,0,0,0,1,0,0
+blanco tacos + tequila,4,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,1
+bonsall unified school district,3,31305.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,1,0
+booz allen hamilton,5,86650.0,0,1,0,0,0,0,1,0,2,1,0,1,3,1,0,0,0,0,0,1,0
+boutique recruiting,4,57500.0,0,0,0,0,0,0,1,0,4,0,0,0,3,0,1,0,0,0,1,0,0
+bridge home health and hospice,5,90200.0,0,0,0,5,0,0,1,0,2,0,0,0,3,0,0,3,0,0,1,2,0
+bright horizons,3,33392.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,3,3
+brighton place,5,31450.0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,1,0,0,0,0,0
+brightview landscape development,4,59100.0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,1,0
+bristol myers squibb,4,115500.0,0,0,0,0,1,1,1,0,1,0,0,1,3,0,0,0,0,0,0,0,0
+brookdale senior living,3,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+brookfield properties,5,64000.0,0,0,0,0,0,0,2,0,0,1,1,2,1,1,0,0,0,0,0,1,0
+bruegger's bagels | js foods,5,24300.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,5
+buffini & company,5,40000.0,0,0,0,0,0,1,0,0,0,2,0,0,3,0,0,0,0,0,0,1,0
+buick gmc sdnc llc,4,31305.0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1
+burlington stores,5,28400.0,0,0,0,0,0,1,5,0,0,0,0,0,3,0,0,0,0,0,0,0,1
+burton foods,4,31305.0,0,0,0,0,3,0,0,0,1,0,0,0,0,0,2,0,0,2,0,0,4
+burton restaurants llc,3,47300.0,0,0,0,0,0,0,0,0,2,1,0,0,2,0,0,0,0,0,0,0,3
+c me trim company inc.,3,62610.0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ca one tech cloud inc,3,73045.0,0,0,0,0,0,0,0,0,3,0,0,3,0,0,0,0,0,0,0,0,0
+california coast credit,6,36050.0,1,0,0,0,0,0,1,0,6,6,0,0,0,0,0,0,1,0,0,2,0
+california public utilities commission,11,45384.0,0,0,11,0,0,0,1,0,11,3,0,3,3,3,0,1,0,0,11,3,0
+california state university,31,45984.0,0,0,1,3,0,0,4,1,31,7,1,5,6,1,31,0,1,0,31,4,1
+cannabis 21+,4,31305.0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,2,0
+cannon building,3,73045.0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0
+care choice home care,8,36522.5,0,0,0,8,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,8,0
+carl's jr.,3,29218.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,3
+carlisle interconnect technologies,7,39653.0,0,1,0,0,3,0,0,1,1,1,0,1,2,1,0,0,0,0,0,0,0
+carte hotel,3,29800.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,3,3,0,0,3
+casino pauma,3,28000.0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,1,2
+cass arrieta,3,35479.0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0
+cava,4,33392.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,0,0,0,4
+"center for autism and related disorders, inc.",5,,0,0,0,0,0,0,0,0,2,0,0,3,0,0,0,3,3,0,0,0,0
+center for community solutions,3,52500.0,0,0,0,0,0,0,1,0,3,0,1,0,1,0,0,0,0,0,3,1,0
+cg creative studios,8,77800.0,0,0,0,0,3,0,0,0,0,0,0,0,2,0,6,0,3,0,0,0,0
+charger logistics inc,3,,0,0,0,0,0,0,0,3,0,0,0,0,1,0,0,0,1,0,1,1,0
+che behavioral health services,5,48100.0,0,0,0,0,0,1,5,0,2,0,0,2,2,0,0,5,5,0,0,0,0
+chick fil a del sur town center,3,35479.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+chick fil a mission center road,3,35479.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3
+chick fil a | ocean view hills,3,33392.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+chilis,6,26350.0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,2
+chipotle mexican grill,3,31305.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,3,3
+church's chicken,5,22957.0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+cibus us llc,3,,0,0,0,0,1,0,2,0,3,0,0,2,1,0,1,0,0,0,0,0,0
+"city of carlsbad, ca",3,59904.0,0,0,0,0,0,0,0,0,3,0,0,1,2,1,0,1,0,0,3,0,0
+city of encinitas,5,59322.0,0,0,3,0,0,0,0,0,5,0,0,1,1,3,0,0,0,0,5,1,0
+city of escondido,4,34714.0,0,0,0,0,0,0,0,0,4,0,1,1,1,1,0,1,1,1,4,0,0
+"city of oceanside, ca",3,46548.0,0,0,1,0,1,0,0,0,3,1,0,2,0,0,0,0,0,0,3,0,0
+city of san diego,23,55900.0,0,0,3,1,2,3,0,0,23,2,0,2,5,3,3,2,3,0,23,4,0
+clean harbors,4,49000.0,0,0,0,0,0,0,1,1,0,0,0,3,0,4,0,0,0,0,0,0,0
+club xcite,8,45914.0,0,0,0,0,0,0,0,0,8,0,0,5,3,0,3,5,5,0,0,0,0
+clutter,3,41740.0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+cmit solutions of central ri,3,,0,0,0,0,0,0,0,0,3,0,0,3,0,0,0,0,0,0,0,0,0
+codex dna,3,65000.0,0,0,0,0,2,1,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+cohn restaurant group,4,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,4
+collins aerospace,10,,0,0,0,10,3,0,1,2,4,3,0,2,4,0,0,0,0,0,2,4,0
+colrich,3,,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0
+commonwealth financial network,8,60700.0,0,0,0,0,0,2,2,0,8,8,0,1,2,4,0,0,0,0,0,0,0
+community care center,5,31900.0,0,0,0,0,0,0,1,0,5,0,0,0,1,0,0,3,2,0,5,5,0
+community health group,3,33100.0,0,0,0,0,0,0,1,0,3,1,0,0,3,0,0,1,0,0,3,1,0
+community research foundation,19,90000.0,0,0,0,0,0,0,0,0,19,1,0,19,5,0,0,11,0,0,19,3,0
+compex legal services,4,31702.5,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,4,0
+compunnel healthcare,3,62610.0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,3,0,0,0,3,0
+compunnel inc.,6,52175.0,0,0,0,0,3,1,1,0,2,1,0,3,0,0,1,1,1,0,0,0,0
+conam management corporation,7,39653.0,0,0,0,0,0,0,0,0,1,0,2,2,7,4,0,0,1,0,2,0,1
+concord hospitality,6,33392.0,0,6,0,6,0,0,0,0,6,0,0,0,5,0,0,0,0,0,0,0,6
+coneybeare,5,60000.0,0,0,0,0,0,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+confidential,24,37566.0,2,0,0,3,0,3,0,1,4,4,0,2,9,0,1,3,3,0,0,2,1
+continental maritime of san diego,5,50000.0,0,1,0,1,0,0,0,0,5,1,0,0,0,0,0,0,0,0,0,0,0
+cook group,3,,0,0,0,0,1,0,0,1,0,1,0,0,2,0,0,0,0,0,0,1,3
+"core contracting, inc.",3,83480.0,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+corecivic,9,,0,0,0,0,0,0,0,1,4,3,0,0,5,0,1,4,3,0,4,1,0
+corratel hc,3,92100.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+cortech,5,45914.0,0,0,0,0,3,1,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0
+cortex,9,65740.5,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,5,3,0,0,0,0
+cortica,5,58400.0,0,0,0,0,0,0,3,0,0,0,0,0,3,0,0,2,2,0,0,0,0
+county of san diego,35,65894.5,0,1,1,3,0,3,3,0,4,6,0,5,10,1,1,6,5,0,35,7,0
+"countywide mechanical systems, inc.",6,,0,0,4,1,0,0,1,0,6,0,0,0,0,0,0,0,0,0,6,2,0
+coventry wcs,3,,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,2,0,0,0,0,0
+cox communications inc,5,66500.0,0,0,0,0,0,2,1,0,2,2,0,0,5,0,1,0,1,0,5,0,0
+"craft and technical solutions, llc",4,80349.5,0,0,0,0,0,0,0,0,2,0,0,4,0,0,0,0,0,0,1,2,0
+crate & barrel,7,32000.0,0,0,0,0,0,3,4,0,0,0,0,0,2,0,0,0,0,0,0,0,2
+crc ed treatment,3,57624.5,0,1,0,0,0,0,2,0,0,0,0,0,1,0,0,2,2,0,0,0,0
+"crossmark, inc.",3,28000.0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+crownbio,10,55550.0,0,0,0,0,1,0,4,0,3,0,0,8,5,0,0,0,0,0,0,1,0
+crownco inc,3,,0,0,0,3,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+crunch care,7,48750.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0
+csl staffing,3,33392.0,0,0,0,0,1,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+cue health,7,47950.0,0,0,0,0,3,1,1,1,4,1,0,1,0,1,0,0,0,0,0,2,0
+cumming group,3,66000.0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,2,2,0,0,0,0
+cushman & wakefield,6,70500.0,0,0,0,0,1,0,0,0,1,1,2,1,3,2,0,0,0,0,0,0,0
+"cuso financial services, l.p.",3,,0,0,0,0,0,0,3,0,2,3,0,0,0,1,0,0,0,0,0,0,0
+cute cakes,3,42409.0,0,0,0,0,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,0,2
+cvs health,5,,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,1,0,0,1,0,0
+cvs health retail,9,,0,0,0,0,0,6,9,0,1,0,0,0,8,0,0,1,0,0,0,0,0
+cybercoders,16,100000.0,0,0,0,1,0,2,0,0,5,4,5,2,6,0,0,0,1,0,2,0,0
+cycle gear,6,31305.0,0,0,0,0,0,3,2,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+danny's home health care inc.,3,83480.0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,3,0
+dave & buster's,6,,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,6,1,0,1,1
+davey tree,3,,3,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,3,0,0,0,0
+david's bridal,3,28200.0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+davidson hospitality group,5,24500.0,0,5,0,5,0,0,0,0,5,1,0,0,2,0,0,0,5,3,0,0,5
+davita,6,,0,0,0,0,0,0,0,0,6,0,0,3,1,0,0,5,6,0,0,3,0
+del mar fairgrounds   22nd district agricultural...,3,45600.0,0,0,0,0,0,0,0,0,1,1,0,0,2,3,0,0,0,0,0,0,0
+del taco llc,6,,6,0,0,0,0,0,6,0,0,0,0,0,3,0,0,0,0,0,0,0,5
+delaware north,3,33900.0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,3,0,0,0,3,1
+deloitte,70,88600.0,0,2,0,1,5,7,9,1,70,11,0,12,36,6,7,0,2,1,4,9,1
+dental ceramics west inc.,3,52175.0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,3,0,0,0,0,0
+dental express   point loma,4,112698.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,4,1,0,0,0,0
+dental group palomar,3,33800.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,0,0,0,0,0
+design appruv,4,37200.0,0,0,0,0,0,2,0,0,0,0,0,1,1,0,0,0,4,0,0,0,0
+dewey pest control,5,35000.0,0,0,0,1,0,1,0,0,2,0,0,0,2,0,1,0,0,0,0,2,0
+dexcom,5,44720.0,0,0,0,0,3,0,1,0,1,0,0,2,1,0,0,0,0,0,0,1,0
+dirt king fabrication,3,33392.0,0,0,0,1,1,0,0,1,0,0,0,0,2,0,0,0,0,0,0,1,0
+dish,7,41740.0,0,0,0,6,0,0,0,0,1,0,0,5,1,0,0,0,0,0,0,0,0
+disys,3,29218.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+dnv,3,,0,0,2,2,0,0,0,0,0,0,0,1,3,0,1,0,0,0,0,0,0
+domino's franchise,3,21200.0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+dr. bronner’s,8,38650.0,0,0,0,0,3,0,1,1,2,0,0,2,1,0,1,0,0,0,0,3,0
+dr. zak dental care,3,41740.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,0,0,1,3,0
+dreamstyle remodeling,5,65000.0,0,0,0,4,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,1,5
+"dssi, inc.",3,31305.0,0,0,0,0,3,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+dunn edwards,4,34700.0,0,0,0,0,0,2,4,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+easterseals southern california,4,49850.0,0,0,0,0,0,0,0,0,1,0,0,0,3,0,1,2,0,0,0,1,0
+eastridge workforce solutions,9,45914.0,0,0,0,0,2,1,1,0,1,0,0,1,2,0,1,1,1,0,0,1,0
+edf renewables,5,95100.0,0,0,1,0,0,0,0,0,2,1,0,1,3,0,0,0,0,0,0,0,0
+einstein bros. bagels,3,33392.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,3
+el pollo loco,4,27800.0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,4
+element biosciences,3,,0,0,0,0,1,1,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0
+elemy,5,,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,5,5,0,0,0,0
+"epitope diagnostics, inc.",4,58000.0,0,4,0,0,3,0,1,0,4,0,0,0,0,0,1,0,0,0,1,0,0
+epsilon systems inc,13,41500.0,0,0,0,1,1,0,0,0,13,0,0,6,1,2,0,0,1,0,1,4,1
+equus workforce solutions,7,41740.0,0,0,0,0,0,0,0,0,1,0,0,0,3,0,0,2,1,0,0,0,0
+esfm,4,,0,0,2,0,0,0,0,2,2,0,0,0,2,0,0,0,0,0,0,0,0
+eurofins usa biopharma services,3,50800.0,0,0,0,0,0,0,3,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+"evans hotels, llc",6,29800.0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0,1,6,0,0,2
+everlight solar,3,22000.0,0,0,3,0,0,1,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+exact sciences corporation,3,65650.0,0,0,0,0,2,0,2,0,1,0,0,3,1,0,1,0,0,0,0,0,0
+"exagen, inc.",7,46250.0,0,0,0,0,0,1,0,0,1,0,0,3,0,0,0,2,1,0,1,0,0
+excel hotel group,4,29200.0,0,0,0,0,0,1,0,0,2,0,0,0,1,0,0,0,0,4,0,2,0
+experfy inc,3,126000.0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,1,0
+express employment professionals,4,34435.5,0,0,0,1,1,0,1,1,0,0,0,1,1,0,0,1,0,0,0,0,0
+family health centers of san diego,11,41740.0,0,0,0,0,0,0,3,2,4,1,0,3,4,0,1,2,2,0,3,1,1
+famous footwear,9,,0,0,0,0,0,1,3,0,0,0,0,0,8,0,0,0,5,0,0,0,0
+fate therapeutics,28,65750.0,0,0,0,0,9,0,15,4,9,1,0,8,14,1,2,0,0,0,2,8,0
+fedex express,4,37566.0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,4,0,0,0,0
+filtrous,3,60000.0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0
+first transit,4,33392.0,0,0,0,0,0,0,1,2,4,0,0,0,0,0,0,0,1,0,0,0,0
+five below,5,,0,0,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+flagship cruises & events,3,30261.5,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,3,1
+flower child,3,58436.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2
+"fortis industries, inc. dba   lts, inc.",3,74100.0,0,0,0,2,0,0,0,0,1,0,0,0,3,0,0,0,0,0,0,0,0
+frazier farms,7,31305.0,7,0,0,0,0,0,1,0,0,0,0,0,5,0,0,0,0,0,0,0,4
+free sacred trinity church,3,95000.0,0,0,0,0,0,0,0,0,3,0,0,3,0,0,0,0,0,0,0,0,0
+fresenius medical care,4,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,4,0,0,0,4,0
+frito lay north america,3,43827.0,0,0,0,0,0,2,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0
+front porch,6,44870.5,0,0,0,0,0,0,1,2,1,0,0,0,3,0,0,1,1,0,1,0,0
+frontwave credit union,3,77200.0,0,0,0,0,0,0,0,0,3,3,0,0,1,0,0,0,3,0,0,0,0
+gallagher,3,86500.0,0,0,0,0,0,0,1,0,1,1,0,0,1,1,0,0,0,0,1,1,0
+gardaworld security services u.s.,11,33392.0,0,0,0,0,0,0,11,0,11,0,0,0,4,0,0,3,3,0,0,11,0
+garden communities ca,3,34800.0,0,0,1,0,0,0,1,0,3,1,0,0,0,0,0,0,0,0,1,1,0
+gat airline support,4,31750.0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,4,0
+"gbc remodeling, inc.",3,52175.0,0,0,0,1,0,1,0,0,1,1,0,0,1,0,0,1,0,0,0,0,3
+general atomics and affiliated companies,63,74600.0,0,2,0,6,7,5,1,1,20,16,0,11,22,5,4,0,7,0,4,6,0
+general dynamics information technology,4,98250.0,0,1,0,1,1,0,0,0,4,0,0,4,1,0,0,0,0,0,1,1,0
+"genomatica, inc",7,47200.0,0,0,0,0,0,0,4,0,1,0,0,5,0,0,0,0,1,0,0,0,0
+"genomatica, inc.",7,47200.0,0,0,0,0,0,0,2,0,2,0,0,4,0,0,0,0,1,0,0,0,0
+geppetto's toys,3,31305.0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gg advisors llc,4,62500.0,0,0,1,0,0,1,1,0,0,0,2,0,1,0,0,0,0,0,2,0,0
+girl scouts san diego,3,61700.0,0,0,0,0,0,0,0,0,1,2,0,0,2,0,1,0,0,0,1,1,0
+gkn aerospace,3,,0,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+global medical response,12,40300.0,0,0,0,0,2,0,2,2,0,0,0,3,0,1,0,12,1,0,1,2,0
+global payments,6,57900.0,0,0,0,1,0,0,3,0,1,0,0,0,1,0,1,0,1,0,0,2,0
+"go green agriculture, inc.",3,33392.0,3,0,0,0,1,0,0,0,1,0,0,1,0,0,1,0,0,1,0,1,1
+golden hill post acute care,3,45914.0,0,3,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,2,3,0
+goodwill industries of san diego county,10,27800.0,0,0,0,0,0,2,4,0,1,0,0,1,0,0,0,0,0,0,10,0,0
+google,3,83600.0,0,0,0,0,0,1,1,0,3,0,0,0,0,0,0,0,0,0,0,1,0
+gpac,3,300000.0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1
+grand hyatt san diego,3,,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0
+granite hills healthcare & wellness centre,3,56800.0,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,3,0,0,1,3,0
+greystar real estate partners llc,10,37300.0,0,0,0,3,0,0,2,0,2,0,10,2,3,0,0,0,10,0,10,0,0
+grifols,3,,0,0,0,0,1,0,2,2,1,0,0,0,0,0,0,0,0,0,0,2,0
+grossmont cuyamaca community college district,5,89600.0,0,0,0,0,0,0,1,0,5,0,0,1,0,0,5,1,1,0,5,0,3
+guard west security svcs,3,29218.0,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,2,1,0,0,3,0
+guild mortgage,5,37115.0,0,0,0,0,0,0,0,0,2,1,5,0,1,1,0,0,0,0,0,1,0
+guild mortgage company llc,3,59200.0,0,0,0,0,0,0,0,0,2,0,3,0,1,0,0,0,0,0,0,1,0
+"gypsum management & supply, inc.",4,28500.0,0,0,0,0,4,0,1,1,0,0,0,0,4,0,0,0,0,0,0,0,0
+gyu kaku japanese bbq,7,24350.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,3
+habit burger grill   mission valley,3,27500.0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,3,0,0,3
+habit burger grill   point loma,3,27500.0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,3,0,0,3
+habit burger grill   sdsu,3,25900.0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,3,0,0,3
+hallmark,4,,0,0,0,0,0,3,3,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+halo staffing group llc,3,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,0,0,0,0,0
+"hanna interpreting services, llc",4,35479.0,0,0,0,0,0,0,4,0,2,1,0,0,2,0,0,0,0,0,0,0,0
+hard rock hotel san diego,4,33900.0,0,0,0,0,0,0,0,0,0,3,0,0,3,0,0,0,0,4,1,0,0
+hawthorne machinery co.,4,34800.0,0,0,0,0,4,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0
+healthstore,3,56700.0,0,0,0,0,0,0,3,0,1,2,0,0,1,1,0,0,0,0,0,0,0
+hertz,4,35479.0,0,0,0,0,0,1,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0
+"hhs construction, llc.",4,52175.0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,4,0,0,0,0,1,0
+hilton,14,29450.0,0,0,0,0,0,1,1,0,1,0,0,0,2,0,0,0,1,4,2,0,1
+hilton grand vacations,4,46750.0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+hilton's of san diego   virtual hiring event,45,33392.0,0,0,0,0,0,0,8,0,0,0,0,0,3,0,5,0,0,11,3,0,17
+home care assistance,3,73650.0,0,0,0,3,0,0,0,0,1,2,0,0,2,0,0,0,0,0,0,3,0
+home start inc,14,35250.0,0,0,0,14,0,0,0,0,1,2,2,0,4,0,0,2,14,0,5,4,1
+homewood san diego mission valley,5,,0,0,0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+hp,10,79650.0,0,0,0,0,1,0,0,0,1,4,0,0,4,0,2,1,3,0,1,1,0
+hunt mh shared services llc,3,38100.0,0,0,0,0,0,0,3,0,0,0,1,1,0,1,0,0,0,0,0,0,0
+hyatt regency mission bay spa and marina,4,27850.0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+hyatt regency mission bay spa y puerto deportivo,4,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0
+idea permian basin,4,57500.0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,4,1,0,0,0,1,3
+ignite visibility llc,3,54250.0,0,0,0,0,0,1,0,0,3,1,0,0,3,0,0,0,0,0,0,0,0
+illumina,8,51350.0,0,0,0,0,1,1,1,1,3,2,0,3,2,1,2,0,0,0,1,1,0
+imatrix,5,52070.0,0,0,0,0,0,2,0,0,1,3,0,0,2,0,0,0,0,0,0,0,0
+impact healthcare,8,45950.0,0,0,0,4,0,0,0,0,2,0,0,0,0,0,1,8,0,0,3,8,0
+in n out burger,3,35479.0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,3,3,0,0,0,3
+indeed gigs,7,46200.0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0
+indian health council,8,35739.5,0,0,0,0,0,0,0,0,0,4,0,1,2,0,0,3,0,0,1,1,0
+"indus technology, inc.",24,93600.0,0,0,0,2,1,0,2,3,6,5,0,24,15,1,0,0,1,0,1,5,1
+inova health system,5,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+insight global,10,36683.0,0,0,0,0,0,0,4,0,1,2,0,1,2,0,0,1,0,0,0,2,0
+intel,6,144000.0,0,0,0,1,0,1,0,0,1,2,0,2,4,0,0,0,1,0,0,0,0
+interfaith community services,8,33800.0,0,0,0,0,0,0,8,0,8,0,1,1,5,0,0,5,0,0,8,2,1
+interior logic group,6,36550.0,0,0,0,0,1,0,0,2,2,0,0,1,0,2,1,0,0,0,3,0,0
+intersolutions,3,29500.0,0,0,0,0,0,0,0,0,3,0,1,0,1,2,0,0,3,0,1,0,0
+intuit,8,82200.0,0,0,0,1,0,0,1,0,8,3,0,1,4,0,1,0,0,0,1,1,0
+j t kruer & company,3,80000.0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+j&j worldwide services,3,,0,0,3,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+jack in the box,23,33392.0,0,0,0,0,0,0,5,0,0,0,0,0,7,0,0,0,0,2,0,0,23
+jack in the box | jack in the box,7,85000.0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,1,7
+jamul casino,4,27450.0,0,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0
+jared dean   state farm agent,4,47850.0,4,0,0,0,0,0,1,0,1,3,0,0,1,0,4,0,0,0,4,0,4
+jb software & consulting,3,41740.0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,2,0,0,0,0,0
+jdv oceanside,4,27900.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+"jeld wen, inc",4,41740.0,0,0,0,0,3,0,0,1,0,0,0,0,0,0,3,0,0,0,0,0,0
+jerry,3,40000.0,0,0,0,0,0,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+jewish family service of san diego,12,41740.0,0,0,0,0,0,0,12,3,2,5,0,0,6,2,0,2,1,0,3,2,1
+jkc automotive,3,53200.0,0,0,0,0,0,1,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+johnson & johnson family of companies,4,89900.0,0,0,0,0,0,0,1,0,2,0,0,1,3,0,0,0,0,0,1,0,1
+"jpmorgan chase bank, n.a.",13,,2,0,0,0,0,1,5,0,1,13,0,0,6,0,0,1,1,0,2,2,0
+june shine,3,69500.0,0,0,0,0,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+kaiser,6,88450.0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,3,0,0,0,2,0
+kaiser permanente,29,64500.0,0,4,0,6,0,0,0,0,8,3,0,5,8,0,2,9,4,0,1,2,0
+katalyst healthcares & life sciences,10,104350.0,0,0,0,4,2,0,1,0,3,0,0,10,6,0,0,10,1,0,1,10,0
+katalyst healthcares & life sciences inc,4,68700.0,0,0,0,2,0,0,0,0,1,0,0,4,2,0,0,4,0,0,1,4,0
+kearny mesa convalescent & nursing home,4,,0,0,0,4,0,0,0,0,0,0,0,0,1,0,0,2,0,0,1,0,0
+kelly,9,49700.0,0,0,0,0,0,2,0,0,1,1,0,3,0,1,0,0,0,0,0,1,0
+kendal floral supply llc,3,39653.0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+kfc,3,29218.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+kidder matthews,4,,0,0,0,0,0,1,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0
+kidztopros,3,41740.0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,1,0,1,0,0,0,0
+kindercare education,14,35750.0,2,0,0,0,0,0,0,0,2,0,0,2,0,0,14,0,2,0,0,14,13
+kindred hospitals,5,73100.0,0,5,0,5,1,0,0,0,5,0,0,0,2,0,0,4,0,0,0,0,0
+kontron america inc jobs,3,,0,0,0,0,0,0,1,0,0,2,0,0,2,0,0,0,0,0,2,0,0
+kpmg,27,94700.0,0,0,0,0,1,0,6,0,18,1,0,3,18,1,4,0,1,0,2,5,1
+kroger,4,26900.0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0,0,3
+la costa glen carlsbad ccrc llc,3,41740.0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0
+la house cleaning,3,72800.0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,0
+"la jolla beach & tennis club, inc.",10,34750.0,0,0,0,1,0,1,0,0,1,3,0,0,6,0,0,0,0,1,1,0,2
+la jolla dental group,3,33400.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,0,0,0,0,0
+la mesa spring valley school district,3,35479.0,0,0,1,0,0,0,1,0,1,0,0,0,1,0,3,0,0,0,0,0,0
+la valencia hotel,3,31305.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,3,0,0,2
+labcorp,32,38100.0,0,0,0,1,1,0,6,2,3,1,1,32,11,0,0,2,1,0,0,4,0
+labor finders,14,33392.0,0,0,0,1,6,0,4,3,1,0,0,14,0,2,4,3,1,0,1,2,4
+labor one staffing,8,41740.0,0,0,0,3,0,0,0,1,4,0,0,8,0,0,0,0,0,0,2,5,0
+le parfait paris,3,64697.0,0,0,0,0,0,0,0,1,3,0,0,0,2,0,0,0,0,0,0,0,1
+learn4life,3,35479.0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,1
+lehigh hanson,3,,0,0,2,0,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,1,0
+leidos,8,,0,0,0,2,1,0,2,0,2,2,1,1,2,1,0,0,0,0,0,0,0
+liberty military housing,32,39800.0,0,0,1,0,2,0,13,0,32,2,1,11,7,6,0,0,0,0,8,0,0
+"lithia motors, inc.",4,,0,0,0,0,0,0,1,0,4,0,0,3,0,0,0,0,1,0,0,0,1
+little caesars,6,29218.0,0,0,0,0,0,0,5,0,6,0,0,0,2,0,0,0,0,4,0,0,4
+local allstate insurance agency,10,40000.0,0,0,0,0,0,4,5,0,0,10,0,0,0,0,0,0,0,0,10,0,0
+los robles healthcare,3,,0,0,0,3,0,0,0,0,1,0,0,0,1,0,1,3,0,0,1,3,0
+louis vuitton,4,,0,0,0,0,0,1,3,0,4,0,0,0,0,0,0,0,3,0,0,0,0
+lucky brand,3,,0,0,0,0,0,2,2,0,0,0,0,0,1,0,3,0,1,0,0,0,0
+luna grill,4,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+macy’s,14,,0,0,0,0,0,6,13,0,7,0,0,0,0,0,2,0,3,0,2,7,0
+marine corps community services,15,40696.5,0,0,0,1,0,1,15,0,15,1,0,1,3,1,2,0,0,0,15,1,0
+marketing agency in orange county & los angeles,4,35000.0,0,0,0,0,0,4,0,0,0,4,0,0,0,0,0,0,0,0,4,0,0
+"marriott international, inc",15,,1,0,0,0,0,1,0,0,0,0,1,1,7,0,0,0,0,0,3,0,2
+marriott vacations worldwide,13,,0,0,0,1,0,0,0,0,1,1,0,2,3,1,0,0,0,0,1,0,1
+marshalls,3,,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+mcalister institute,3,35479.0,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,1,0,0,0,1,1
+mcdonald's,11,31305.0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,2,0,0,11
+mdg,3,57400.0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,1,0,1,0,0
+"means engineering, inc.",5,32750.0,0,0,0,0,1,0,0,1,0,1,0,5,1,0,0,0,0,0,0,1,0
+meggitt,4,,0,0,0,0,1,1,0,1,4,0,0,0,0,1,0,0,0,0,1,2,0
+mehvya alliance,4,41600.0,0,0,0,0,0,0,3,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+"mental health systems, inc.",8,41740.0,0,0,0,0,0,0,0,0,8,0,0,0,3,1,0,2,0,0,1,0,0
+merakey,4,41740.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,3,0
+meridian senior living,4,54100.0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,1,0
+millipore sigma,6,50250.0,0,0,0,0,5,1,0,0,2,0,0,2,2,0,1,0,0,0,0,6,0
+mission edge san diego,5,34633.0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,1,2,0,1,0,1
+mission pools,3,37566.0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+mission san jose mortgage,3,88150.0,0,0,0,0,0,0,0,0,1,2,3,0,0,0,0,0,1,0,0,0,0
+moore & associates,17,39653.0,0,1,0,0,7,2,17,2,3,2,0,5,6,2,4,0,1,0,0,1,0
+morris cerullo world evangelism,3,40800.0,0,1,0,0,0,0,0,0,1,0,0,0,1,2,0,0,0,0,0,0,0
+mossy nissan poway,5,,0,0,0,0,0,2,2,0,2,0,0,1,2,0,0,0,0,0,0,0,0
+motel 6 studio 6,8,29600.0,0,0,0,0,0,0,2,0,0,0,1,0,0,1,0,0,7,8,0,0,0
+my goods market | united pacific,6,29650.0,0,0,0,0,0,4,5,0,6,0,0,0,2,0,0,0,2,0,0,0,0
+napa auto parts,7,31305.0,0,0,0,0,0,3,1,3,2,0,0,0,1,0,0,0,7,0,3,0,2
+national resilience,3,75600.0,0,0,0,0,0,0,1,0,0,0,0,3,0,0,0,0,0,0,0,2,0
+national steel and shipbuilding com,4,,0,0,0,4,0,0,0,0,3,1,0,0,1,0,0,0,0,0,1,4,0
+national university,5,32000.0,0,0,0,0,0,0,1,0,5,0,0,1,0,0,5,0,1,0,1,0,0
+nationwide skilled trades,7,41740.0,0,0,0,1,0,7,0,1,0,0,0,1,0,0,0,0,0,0,1,1,0
+natural alternatives international inc,3,43827.0,0,3,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0
+navy exchange service command,4,33392.0,0,0,0,0,0,2,4,0,0,0,0,0,1,0,0,0,4,0,0,0,0
+navy federal credit union,3,39653.0,1,0,0,0,0,0,2,0,3,3,0,0,1,0,0,0,3,0,0,0,0
+nctd,3,60320.0,0,0,0,0,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,1,0
+neighborhood house association,3,56349.0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,1,0,3,1,0
+"neomorph, inc",5,,0,0,0,0,0,0,2,0,1,0,0,5,0,0,0,0,0,0,0,2,1
+neotech,3,41900.0,0,0,0,0,1,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+"new alternatives, inc.",5,40952.5,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,2,0,0,1,2,0
+newman windows and doors,3,48001.0,0,0,3,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+noodles & company,4,37566.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+nordson,17,27100.0,0,0,2,0,5,0,7,0,6,1,0,2,5,1,6,0,0,0,1,1,0
+north italia,4,33392.0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,2,0,0,2
+north peak solutions,4,65600.0,0,0,0,1,0,0,1,0,0,2,0,0,4,0,0,0,0,0,0,0,0
+northrop grumman,23,61900.0,1,0,0,0,3,0,1,3,6,7,0,3,4,1,0,0,1,0,3,4,0
+nsdi,5,,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,3,0,0,0,1,0
+nvision corporation,3,31600.0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+o'gara coach,3,41300.0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+oakmont senior living,8,32700.0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,3,2,2,0,2,1
+obsidian financial services,5,77500.0,0,0,0,0,0,0,5,0,0,5,5,0,5,0,0,0,0,0,0,0,0
+olgoonik,3,34300.0,0,0,0,0,2,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0
+omni hotels & resorts,10,27150.0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,6,10,0,0,2
+oneplan solutions,5,90000.0,0,0,0,0,0,0,0,0,1,1,0,0,4,0,1,0,0,0,0,0,0
+online technical services,5,87654.0,0,0,0,0,1,0,5,0,2,2,0,5,0,0,0,0,0,0,0,0,0
+optimum health institute,3,33392.0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,1
+oremor automotive group,4,34200.0,0,0,0,0,1,0,2,0,2,0,0,2,1,0,0,0,0,0,0,0,0
+pacific dental services,8,,0,0,0,0,0,1,8,0,0,0,0,0,5,0,0,8,0,0,3,3,0
+"pacific drive ins, llc",3,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,3
+pacific wyyerd,7,74650.0,0,0,0,1,0,2,1,0,0,0,0,1,4,1,1,0,0,0,0,0,2
+pacifica companies,4,29800.0,0,0,0,0,0,0,2,0,0,1,0,0,1,0,0,0,0,0,2,0,0
+pacifica senior living,8,27100.0,0,0,0,0,0,0,1,0,2,0,0,1,2,1,0,1,0,1,0,1,1
+pae,4,56800.0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,1,0,1,0,0
+pala casino spa & resort,3,25400.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+paladin technologies,3,52500.0,0,0,0,0,0,0,1,0,1,0,0,2,0,0,1,0,0,0,0,1,0
+palomar college,3,,0,0,0,0,0,0,1,0,1,1,0,0,2,0,3,0,1,0,2,0,0
+palomar health,8,44800.0,0,0,0,1,0,0,0,0,0,0,0,3,0,0,0,3,0,0,0,1,1
+palomar health medical group,10,31300.0,0,0,0,0,0,0,1,0,0,1,0,0,4,0,0,10,0,0,0,0,0
+papa john's,5,33392.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+papa john's   diabo,3,25900.0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3
+papa john's   san diego & inland empire,3,31305.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,3
+park hyatt aviara resort,6,45350.0,0,0,0,0,0,1,0,0,0,0,0,0,2,0,0,6,6,2,0,0,1
+pathways of california,4,55450.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,2,1
+pearson,3,39900.0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,2,0,1,0,0,0,1
+people staff technologies llc,6,25044.0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0
+people technology and processes llc,5,,0,0,0,0,0,0,0,0,3,2,0,5,4,1,0,1,0,0,1,3,0
+peopleconnect,3,76700.0,0,0,0,0,0,1,1,0,1,1,0,0,2,0,0,0,0,0,1,2,0
+pep boys,3,36900.0,0,0,0,0,0,0,3,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+perkinelmer,18,38300.0,0,0,0,0,9,0,6,3,2,0,0,7,0,0,0,0,0,0,0,2,0
+petco,32,,0,0,0,1,0,7,8,0,9,1,0,1,6,0,3,0,1,0,0,4,0
+petra stone llc,3,37000.0,0,0,0,0,0,1,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+petvet care centers,5,,0,4,0,4,0,0,2,0,4,0,0,0,3,0,1,5,0,0,0,5,0
+pharmaca integrative pharmacy,4,34650.0,0,0,0,0,0,0,3,0,0,0,0,2,1,0,0,2,2,0,0,0,0
+physical rehabilitation network,7,38609.5,0,0,0,0,0,0,1,0,7,0,0,0,2,0,0,1,0,0,0,3,0
+pieology pizzeria,3,31305.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,3
+pinnacle international,4,35479.0,0,0,0,0,0,0,0,0,0,0,3,0,2,1,0,0,0,0,0,0,0
+pitney bowes,3,46200.0,0,3,0,0,0,1,1,0,3,0,0,1,1,0,0,0,0,0,0,0,0
+pizza hut,3,,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,3
+"pmg, inc.",4,60523.0,0,0,0,1,2,0,0,0,0,0,0,2,0,0,0,0,4,0,0,0,0
+point loma nazarene university,4,46450.0,0,0,1,0,0,0,1,0,4,1,0,0,1,0,4,1,1,0,0,1,0
+popeye's louisiana kitchen,3,31305.0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,3,0,0,3
+"prevailance, inc.",6,,0,1,2,0,0,0,0,0,1,0,0,3,1,0,4,0,0,0,0,1,1
+price waterhouse coopers,68,76000.0,1,1,68,1,1,7,17,0,33,19,1,8,44,1,2,1,0,0,6,4,2
+prime healthcare,34,,0,0,0,0,2,0,0,0,5,4,0,2,3,1,0,34,3,0,1,34,0
+procede software,3,67800.0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,0,0,0,1,0,0
+proximity diagnostics,4,73700.0,0,0,0,0,0,2,0,0,4,0,0,2,1,0,0,1,0,0,0,0,0
+psemi,3,51800.0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,1,0,1,0,1,1,0
+psychiatric centers at san diego,7,32900.0,0,0,0,0,0,0,0,0,0,1,0,1,6,0,0,2,0,0,1,0,0
+public consulting group,7,47350.0,0,0,0,0,0,0,2,0,3,0,0,2,2,0,1,1,0,0,7,0,0
+public storage,6,33392.0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,6,0,0
+puesto,6,40445.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4,0,0,2
+qualcomm incorporated,4,88200.0,0,0,0,0,0,0,0,0,3,0,0,0,3,0,0,0,0,0,1,0,0
+"qualcomm technologies, inc.",5,99400.0,0,0,0,0,0,2,0,0,2,2,0,1,3,0,0,0,0,0,1,0,0
+quidel,6,53400.0,0,0,0,1,1,1,1,1,1,0,0,1,1,0,1,0,0,0,0,0,0
+radiometer,3,,0,0,3,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+rady children's hospital san diego,37,40150.0,0,37,0,37,0,1,9,0,37,4,0,5,11,2,2,16,3,0,4,5,1
+rain bird corporation,7,84700.0,0,0,0,0,1,1,0,0,0,2,0,1,6,0,0,0,0,0,2,1,0
+raising cane's,3,31305.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+ramsoft it services private limited,3,62610.0,0,3,0,0,0,0,3,0,3,0,0,0,3,0,0,0,0,0,0,0,0
+"rancho santa fe security systems, inc.",5,31305.0,5,0,0,0,0,0,0,0,5,0,0,0,2,0,0,4,2,0,0,5,0
+rangam consultants inc.,8,52175.0,0,0,0,0,1,1,2,0,0,1,0,2,8,0,1,0,0,0,2,0,0
+rci for confidential companies (hosted jobs),3,,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,0,0,3,0,0,0
+realty income,3,75200.0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,2,0,0,0,0
+"reborn cabinets, inc.",3,41740.0,0,0,1,2,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+redhorse corporation,3,49150.0,0,0,0,1,0,1,0,0,1,1,0,1,0,0,0,0,0,0,1,0,0
+remx,6,57392.5,0,0,0,0,0,2,0,1,1,0,0,0,1,0,0,0,0,0,2,0,0
+republic services,3,54750.0,0,0,0,0,0,0,3,0,0,0,0,0,3,0,0,0,0,0,3,1,0
+rescare community living,6,26100.0,0,0,0,0,0,0,0,0,6,0,1,0,0,0,0,0,0,0,6,6,0
+restoration personnel source,3,60000.0,0,0,0,2,0,0,0,0,1,1,0,0,2,0,1,0,0,0,0,1,0
+retail odyssey,3,31305.0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+reynolds and reynolds,5,63000.0,0,0,0,0,0,2,2,0,0,3,0,0,1,0,0,0,2,0,0,0,0
+rick engineering,4,65200.0,0,0,0,0,0,0,1,0,3,0,0,4,1,0,0,0,1,0,0,1,0
+riverstone logistics,3,39200.0,0,0,0,0,0,3,0,3,0,0,0,0,2,0,0,0,0,0,1,0,0
+roche,4,52600.0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,1
+rock west composites,3,45800.0,0,0,0,0,0,0,0,0,3,1,0,1,0,1,0,0,0,0,0,1,0
+rooter hero plumbing,4,,0,0,4,4,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0
+round table pizza,3,25500.0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,3
+rowan,4,31600.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0
+roy's,8,37566.0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,1,2,0,0,5
+rr donnelley,7,,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,1,0
+rubio's restaurants,3,39653.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,3
+rv retailer san diego llc,4,34633.0,0,0,0,0,0,0,4,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+sage hospitality,3,30100.0,0,3,0,3,0,0,0,0,3,0,0,0,1,0,0,0,1,0,0,0,3
+saic,11,62501.0,0,0,0,0,0,0,2,2,6,1,0,4,0,0,0,0,1,0,0,0,0
+salk institute for biological studies,4,103000.0,1,0,0,1,0,0,0,0,4,0,0,1,2,1,0,1,0,0,0,0,0
+sam's club,4,,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,1
+san diego blood bank,3,50200.0,0,0,0,0,1,0,1,0,1,3,0,2,0,0,0,0,0,0,0,1,0
+san diego center for children,10,33600.0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,1,4,0,2,2,0
+san diego community college district,9,39800.0,0,0,0,0,0,0,2,0,9,2,0,3,3,0,9,0,0,0,9,1,0
+san diego county office of education,3,131455.0,0,0,0,0,0,0,1,0,3,0,0,0,3,0,3,0,0,0,3,0,1
+san diego county regional airport authority,5,39700.0,0,0,0,0,0,0,1,0,5,1,0,0,3,2,0,0,0,0,5,0,0
+san diego french american school,3,35479.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,1
+san diego metropolitan transit system,4,41740.0,0,0,0,0,0,0,0,0,4,0,0,1,1,2,0,0,0,0,0,2,0
+san diego padres,3,45500.0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,1,0,0
+san diego rescue mission,9,37300.0,0,0,0,0,0,0,0,0,1,3,0,0,6,0,2,0,2,1,4,1,1
+san diego state university,10,42156.0,0,0,0,0,0,0,5,0,10,2,0,1,3,0,10,0,1,0,10,2,0
+san diego state university research foundation,8,59100.0,0,0,0,0,0,0,1,0,8,1,0,8,3,0,8,0,0,0,8,2,0
+san diego youth services,5,41600.0,0,0,0,0,0,0,5,0,0,0,0,0,3,0,0,5,0,0,0,2,0
+san diego zoo wildlife alliance,10,31305.0,10,0,0,1,0,1,3,0,2,0,0,3,4,1,0,1,5,1,0,2,4
+san ysidro health,9,31200.0,0,0,0,0,0,1,3,1,2,1,0,0,1,0,1,4,1,0,1,1,0
+sanford burnham prebys medical discovery institute,3,48300.0,0,0,0,0,0,0,1,0,3,0,0,1,1,0,0,3,0,0,0,0,0
+sas retail services,6,,0,0,0,0,0,5,6,0,4,0,0,0,1,0,0,0,1,0,0,0,0
+sbarro,5,24000.0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,1,0,0,0,0,0,5
+sc fuels,3,49200.0,0,0,0,0,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0
+scripps health,41,58150.0,0,0,0,0,0,0,2,1,6,0,0,2,5,0,0,19,3,0,0,41,6
+scripps research,8,51700.0,0,0,0,0,0,0,2,0,0,0,0,8,1,1,0,0,0,0,0,8,0
+seaworld san diego,9,37566.0,0,1,0,1,1,0,1,0,2,0,0,1,6,0,0,1,1,0,1,2,0
+"semper solaris construction, inc.",4,39653.0,0,0,4,4,0,0,2,0,0,1,0,1,0,1,4,0,0,0,0,1,0
+sentara halifax regional hospital,3,,0,3,0,3,0,0,0,0,3,0,0,1,0,0,0,1,0,0,0,0,0
+sentara healthcare   sentara obici hospital,8,,0,8,0,8,0,0,4,0,8,0,0,1,0,0,0,8,1,0,0,8,2
+sephora,6,30250.0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+serco north america,7,55600.0,0,0,0,3,2,0,0,0,3,1,0,0,2,0,0,0,0,0,0,1,1
+sevita,3,,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,1,0,0,0,2,0
+shake shack inc.,13,33392.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,7,3,0,0,13
+sharp healthcare,149,36400.0,3,15,0,21,5,0,15,1,38,8,0,22,18,1,0,149,6,0,6,149,4
+shoreline biosciences,4,74400.0,1,0,0,0,0,0,1,0,0,0,0,4,1,0,0,0,0,0,0,1,0
+signet jewelers,3,34800.0,0,0,0,0,0,0,1,0,3,0,0,0,2,1,0,0,0,0,0,0,0
+slingshot group,3,42700.0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,1,0,0,3,2,0
+sm&a,4,102263.0,0,0,0,0,0,0,0,0,3,0,0,1,1,0,0,0,0,0,0,1,0
+smart & final stores,10,27600.0,0,0,0,0,0,0,10,0,0,0,0,0,1,0,1,0,10,0,0,0,7
+snap on inc,3,57600.0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+soccer shots   san diego east county,3,33392.0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,3,0,0
+sodexo,19,31305.0,0,8,3,9,0,2,3,0,11,2,0,4,8,1,0,0,0,0,0,0,4
+soliant,5,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,3,0,0,1,1
+sonic automotive,4,28550.0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0,0,4
+sonic drive in,6,31305.0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,2,0,0,6
+sorrento therapeutics,16,54000.0,0,0,0,1,6,0,12,0,4,0,0,8,2,0,0,0,0,0,0,0,0
+southern glazer’s wine and spirits,5,42250.0,0,2,0,0,0,3,0,0,5,0,0,0,2,0,0,0,0,0,2,0,0
+"southern indian health council, inc",4,42783.5,0,1,0,0,0,0,0,0,0,0,0,1,2,0,0,2,0,0,0,0,0
+spectrum,4,48783.0,0,0,0,0,0,1,2,0,1,0,0,0,1,0,0,0,0,0,0,2,0
+spine and sport physical therapy,4,44100.0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,1,4,0,0,4,0
+spinezone,3,71500.0,0,0,0,0,0,1,1,0,1,0,0,0,2,0,0,1,0,0,0,0,0
+splunk,5,75000.0,0,0,0,1,0,0,1,0,0,3,0,0,3,0,1,0,0,0,0,1,0
+sprouts farmers market,44,28250.0,44,0,2,0,0,0,6,0,3,0,0,0,34,0,2,0,0,2,0,0,20
+st. paul's senior services,17,34100.0,0,0,0,0,0,0,17,0,3,1,0,1,2,0,0,5,2,1,4,4,1
+st. vincent de paul village,14,33500.0,0,0,0,0,0,0,6,1,1,0,2,0,3,0,0,3,1,0,4,0,1
+staffmark,3,37566.0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+stantec,3,65000.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+staples stores,9,28200.0,0,0,0,0,0,7,9,0,0,0,0,1,2,0,0,0,1,0,0,0,0
+starbucks,3,23700.0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,0,0,0,0,0,3
+starside security & investigation,4,70958.0,0,0,0,2,0,0,2,0,4,0,0,0,4,0,0,0,0,0,0,4,0
+steico industries,3,35479.0,0,0,0,1,3,0,1,1,0,1,0,0,1,0,0,0,0,0,0,1,0
+stellar solar,5,35479.0,0,0,5,0,0,0,2,0,1,0,0,5,0,0,0,0,0,0,0,0,0
+stryker,4,66600.0,0,0,0,1,0,0,3,2,1,0,0,0,1,0,0,2,2,0,0,0,0
+studio diner corporation,4,25550.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2
+subway,3,31305.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,2
+sully jones roofing,3,45914.0,0,0,0,3,0,0,0,1,0,0,0,1,1,1,0,0,0,0,0,0,0
+suncrest hospice,4,74300.0,0,0,0,4,0,0,0,0,0,0,0,0,1,1,0,3,0,0,0,0,0
+sunpower corporation,4,,0,0,3,2,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+sunrise senior living,3,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,1,0
+sunroad automotive,18,32299.0,0,0,0,0,0,2,3,1,1,3,0,3,5,0,0,0,3,0,1,0,1
+sunroad enterprises,5,30700.0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,2,0,0,0,1
+sunrun,5,60523.0,0,0,3,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+surface experts of central san diego,3,37566.0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+surgalign spine technologies inc,3,49800.0,0,0,0,0,1,0,1,0,1,0,0,0,1,0,2,0,0,0,0,1,0
+surgical care affiliates,9,40300.0,0,0,0,0,0,1,1,0,1,1,0,0,6,0,0,0,0,0,0,9,0
+sycuan casino,11,33700.0,2,0,0,0,0,0,1,0,4,0,0,3,4,0,0,1,0,0,0,3,0
+t mobile,3,30000.0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"taco bell | kc bell, inc.",4,33392.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+tactical engineering & analysis inc,3,42900.0,0,0,0,0,0,0,0,0,3,0,0,3,0,0,0,0,0,0,0,0,0
+taj health staffing,5,92871.5,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0
+takeda pharmaceutical,7,,0,0,0,0,0,3,1,0,2,0,0,3,2,0,1,0,0,0,0,0,2
+talentzok,3,65000.0,0,0,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+target,9,,0,1,0,0,0,1,2,0,5,0,0,0,4,0,0,0,0,0,0,5,4
+targetcw,3,49900.0,0,0,0,0,1,1,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+te connectivity,3,69100.0,0,0,0,1,0,0,0,0,3,0,0,2,2,0,0,0,0,0,0,1,0
+teksystems,6,67550.0,0,0,0,2,0,0,0,0,6,0,0,5,0,0,0,0,0,0,0,1,0
+tekwissengroup,4,54262.0,0,0,0,0,3,0,0,0,1,1,0,2,1,0,0,0,0,0,0,0,0
+tesla,7,56349.0,0,0,1,0,0,0,4,1,1,0,0,4,0,1,0,0,0,0,2,0,0
+the cheesecake factory,11,24900.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,9
+the henry,6,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,3
+the john stewart company,3,29800.0,0,0,0,0,0,0,0,0,0,0,3,0,2,0,0,0,3,0,0,0,0
+the pavilion at ocean point (2),3,32650.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,3,0,0,1,0
+the salk institute for biological studies,3,37100.0,0,0,0,0,0,0,0,0,3,1,0,2,0,0,0,0,0,0,0,0,0
+the shipyard,3,115000.0,0,0,0,0,0,0,0,3,0,3,0,0,2,0,0,0,0,0,0,3,0
+the university of st. augustine for health...,3,,0,0,0,0,0,0,0,0,3,2,0,0,1,0,3,0,0,0,0,2,0
+thermo fisher scientific,24,72200.0,24,0,0,0,1,0,2,3,5,8,0,3,10,0,0,0,1,0,4,2,1
+thrive affordable vet care,3,29800.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,3,0
+tillys,4,35200.0,0,0,0,0,0,1,1,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+tj maxx,5,,0,0,0,0,0,1,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+tractor supply,13,31900.0,0,0,0,0,13,3,4,0,0,0,0,0,1,0,0,0,0,0,0,0,9
+"transdev, inc.",4,34435.5,0,0,1,0,1,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0
+tri city healthcare district,3,60700.0,0,0,0,0,0,0,1,0,3,0,0,1,0,0,0,3,0,0,3,3,0
+true legacy homes,4,34900.0,0,0,0,4,0,1,2,0,1,0,1,0,1,0,0,0,0,0,1,0,0
+truist financial,3,55800.0,0,0,0,0,0,0,1,0,1,3,0,0,1,0,0,0,1,0,0,1,0
+"truly nolen of america, inc.",3,63000.0,2,0,0,0,0,0,0,0,0,2,0,1,2,0,0,0,0,0,0,0,0
+u.s. bank,3,37400.0,0,0,0,0,0,1,1,0,0,3,0,0,1,0,0,0,0,0,1,1,0
+u.s. marine corps,8,32348.5,0,0,1,0,0,1,2,0,1,1,0,0,2,0,0,0,0,0,0,0,0
+u.s.a home inspectors,3,52175.0,0,0,0,3,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,3,0
+uc san diego,95,50088.0,0,3,0,3,3,1,11,1,20,17,0,12,33,3,95,15,2,0,13,9,0
+ulta beauty,4,30200.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+union bank,9,36100.0,8,0,0,0,0,1,6,0,3,9,1,0,4,0,0,1,3,0,2,0,0
+union of pan asian communities,3,43827.0,0,0,0,0,1,0,0,0,3,1,0,0,1,0,0,1,0,0,1,1,0
+united parcel service,4,,0,0,0,0,0,0,4,0,4,1,0,1,2,0,0,0,0,0,1,2,0
+united site services,4,35400.0,0,0,1,0,0,0,4,0,4,0,0,3,0,0,0,0,0,0,0,1,0
+united states postal service,4,39653.0,0,0,0,0,0,0,4,0,4,0,0,0,1,0,0,0,0,0,4,0,0
+university of san diego,6,43827.0,0,0,1,0,0,1,0,1,6,1,0,0,3,1,6,0,2,0,2,1,0
+upper deck,4,43433.0,0,0,0,0,0,1,1,0,2,1,0,0,0,0,0,0,0,0,1,3,0
+"us commander, navy installations",4,44870.5,0,0,0,4,0,0,0,0,2,1,0,0,0,0,0,0,4,0,0,0,0
+use credit union,4,39250.0,0,0,0,0,0,0,2,0,4,4,0,0,1,0,0,0,0,0,0,0,0
+ust global,3,,0,0,0,0,0,0,1,0,0,0,0,3,0,0,0,0,1,0,0,2,0
+"utiliquest, llc",3,33392.0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0
+vacasa,5,35479.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,2,0
+valley view casino,4,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+valley view casino & hotel,5,46300.0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,5,0,1,0
+vca animal hospitals,3,,0,3,0,3,0,0,0,0,3,0,0,2,1,1,0,0,0,0,0,0,0
+verge mobile – a t mobile premium partner,6,53700.0,0,0,0,0,0,1,5,0,2,0,0,0,5,0,0,0,6,0,1,0,0
+veridiam,8,54800.0,0,1,1,0,6,2,0,0,1,1,0,1,3,0,2,0,0,0,0,1,0
+verizon,3,36100.0,0,0,0,0,0,1,3,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+vert environmental @ san diego,4,45000.0,0,0,1,0,0,1,0,0,1,0,0,4,0,0,0,0,0,0,0,1,0
+veteran benefits guide,3,43557.0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0
+veterans national mortgage,3,48000.0,0,0,0,0,0,2,1,0,1,0,3,0,0,0,0,0,0,0,1,0,0
+viasat,10,65900.0,0,0,0,0,2,0,1,0,5,5,0,2,4,1,1,0,1,0,0,0,0
+viejas casino & resort,5,50700.0,1,0,0,1,0,0,0,0,1,0,0,0,2,2,1,0,0,1,0,1,0
+village square healthcare center,3,50100.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,0,0,0,3,0
+vista community clinic,6,35183.0,0,0,0,0,0,0,2,0,6,0,0,0,1,0,0,4,0,0,6,2,1
+vista hill foundation,8,41740.0,0,0,0,0,1,0,0,0,2,3,0,0,3,0,1,1,0,0,2,2,3
+vividion therapeutics,3,78500.0,0,0,0,0,0,0,1,0,0,1,0,2,1,0,0,0,0,0,1,0,0
+volt workforce solutions,4,43827.0,0,0,0,0,2,1,1,0,1,0,0,0,1,0,1,0,0,0,1,0,0
+walgreens,12,29450.0,0,0,0,0,0,0,6,0,3,0,0,4,0,0,0,4,3,0,0,0,0
+weinerschnitzel,4,29218.0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,1,0,0,3
+wells fargo,7,51450.0,5,0,0,0,0,2,0,0,0,7,0,0,6,0,1,0,1,0,1,1,1
+wendy's   wks,4,23700.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,4
+west coast traffic control,4,33392.0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0
+"western dental services, inc.",4,100000.0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,4,0,0,0,0,0
+westin san diego,3,,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+whole foods market,5,33400.0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,4,0,0,0,5
+"whova, inc",5,37200.0,0,1,0,0,0,0,0,0,1,2,0,0,3,0,1,0,1,0,1,0,0
+winco foods,16,28800.0,0,0,0,0,0,0,0,3,0,0,0,0,11,1,1,0,3,0,0,0,16
+wingstop,3,33392.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3
+wireless advocates,3,,0,0,0,0,0,3,0,0,3,0,0,0,0,0,0,0,0,0,3,0,0
+wiseguys custom home theater,3,33392.0,0,0,0,3,0,0,0,0,3,0,0,3,0,0,0,0,3,0,0,0,0
+"woongjin, inc",12,47800.0,0,0,0,0,0,2,0,0,0,4,0,0,3,2,0,0,0,0,3,5,0
+wsp,5,87650.0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,3,0
+wuxi apptec inc,3,78500.0,0,0,0,0,0,0,2,0,0,0,0,3,1,0,0,0,0,0,0,1,0
+wyndham destinations,6,33392.0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+xcom labs,3,115000.0,0,0,0,0,0,0,0,1,1,1,0,3,0,0,0,0,0,0,0,0,0
+ymca of san diego county,9,35479.0,0,1,0,0,0,0,0,0,2,1,0,0,2,1,0,1,1,0,9,3,0
+zoetis,3,68250.0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0
+zorang technologies,4,75000.0,0,0,0,1,0,2,0,0,3,1,0,0,3,0,0,0,0,0,0,0,0
