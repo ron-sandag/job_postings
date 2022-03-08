@@ -1,22 +1,21 @@
-Job Sector,Job Openings
-Information,2336
-Management of Companies and Enterprises,2150
-Retail Trade,1565
-Other Services (excluding Public Administration),1410
-Professional Scientific and Technical Services,1278
-Health Care and Social Assistance,1046
-fast food,982
-Arts Entertainment and Recreation,936
-Finance and Insurance,931
-Public Administration,923
-Construction,845
-Educational Services,783
-Wholesale Trade,626
-Manufacturing,426
-Utilities,353
-Transportation and Warehousing,348
-Administration & Support Waste Management and Remediation,278
-Agriculture Forestry Fishing and Hunting,274
-Mining Quarrying and Oil and Gas Extraction,256
-Accommodation and Food Services,242
-Real Estate and Rental and Leasing,181
+Job Sector,"Allied Gardens, Del Cerro",Alpine,Bonita,Campo,Cardiff,Carlsbad,Carmel Valey,Chula Vista,City Heights,Clairemont,College,Coronado,Del Mar,Downtown,El Cajon,Encanto,Encinitas,Escondido,Fallbrook,Golden Hill,"Hillcrest, Mission Hills",Imperial Beach,Jamul,Julian,"Kensington, Normal Heights",La Jolla,La Mesa,Lakeside,Lemon Grove,Linda Vista,Logan Heights,Midway,Mira Mesa,Miramar,Mission Valley,Morena,National City,North Park,Ocean Beach,Oceanside,Otay Mesa,"Pacific Beach, Mission Beach",Paradise Hills,Pauma Valley,Penasquitos,Point Loma,Poway,Ramona,Rancho Bernardo,Rancho Santa Fe,San Carlos,San Marcos,San Ysidro,Santee,Scripps Ranch,Serra Mesa,Solana Beach,Sorrento Valley,Spring Valley,Tierrasanta,University City,Valley Center,Vista,Job_openings
+Agriculture Forestry Fishing and Hunting jobs,0,0,0,0,1,3,0,4,0,0,0,1,0,11,1,0,3,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,0,5,0,1,0,1,0,0,0,0,3,0,0,2,2,0,1,1,0,2,0,0,0,0,2,50.0
+Mining Quarrying and Oil and Gas Extraction jobs,0,1,0,0,0,7,0,1,1,2,1,1,0,8,0,0,1,1,0,0,1,0,1,0,0,2,0,0,0,0,1,0,1,1,3,0,2,0,0,1,1,1,0,0,0,0,1,0,2,1,0,0,0,0,1,4,0,3,0,0,0,0,3,54.0
+Utilities jobs,1,0,0,0,0,4,0,3,0,0,1,0,0,7,13,0,2,3,1,0,2,1,0,0,0,0,2,1,1,4,0,0,2,1,3,1,2,0,0,7,1,1,0,0,0,4,2,0,2,0,0,7,0,1,1,10,1,9,1,0,0,0,11,113.0
+Construction jobs,1,1,0,1,0,19,6,12,3,3,1,2,1,31,27,5,5,14,2,1,4,0,1,0,0,10,4,2,1,14,6,1,15,2,12,13,6,2,0,11,1,7,2,0,2,2,7,2,8,2,0,13,0,3,4,14,1,36,3,0,7,0,8,361.0
+Manufacturing jobs,1,0,0,0,0,40,3,8,0,1,1,3,0,21,20,1,0,10,2,3,0,0,2,0,0,8,2,3,1,3,1,0,7,0,5,1,3,0,0,11,11,0,0,0,3,0,5,2,8,0,0,6,0,4,2,10,0,61,1,0,0,1,17,292.0
+Wholesale Trade jobs,4,0,1,0,2,25,6,24,0,4,0,3,1,49,15,0,5,9,0,6,1,0,0,1,1,9,7,3,1,6,4,0,12,3,11,7,6,1,0,14,2,1,0,0,3,3,9,0,7,0,0,13,4,5,4,12,2,37,2,1,10,0,8,364.0
+Retail Trade jobs,4,5,0,1,0,46,22,50,3,9,6,9,1,86,30,0,24,27,4,8,18,2,0,0,1,23,16,1,3,32,13,8,12,2,36,19,25,10,0,35,5,8,3,0,3,12,19,0,22,0,0,24,10,7,4,28,2,109,6,0,13,0,22,888.0
+Transportation and Warehousing jobs,2,0,0,1,0,15,0,6,1,4,4,2,2,12,4,0,2,5,3,6,3,1,0,0,1,3,1,0,0,5,4,0,7,0,1,3,4,2,0,7,19,0,0,0,0,0,10,0,8,0,0,4,0,1,1,7,0,20,1,0,2,0,8,192.0
+Information jobs,0,0,1,0,0,19,5,8,0,0,0,1,2,44,7,1,1,3,0,3,7,3,0,0,0,8,2,1,1,6,6,0,2,0,13,14,0,0,0,2,6,1,0,0,3,9,1,0,11,0,0,7,0,1,2,24,6,31,0,1,9,0,5,277.0
+Finance and Insurance jobs,1,0,0,1,1,32,9,12,1,3,3,7,0,45,8,2,2,12,2,7,9,1,1,0,0,12,5,0,0,9,4,0,2,0,20,8,6,4,1,22,5,1,0,0,2,8,8,0,12,0,0,5,1,2,11,15,1,44,1,0,15,2,5,390.0
+Real Estate and Rental and Leasing jobs,1,0,0,0,0,5,0,2,0,2,1,0,1,17,3,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6,1,0,0,0,3,1,1,0,0,0,1,2,0,2,0,2,2,0,0,0,5,0,2,1,0,0,0,0,65.0
+Professional Scientific and Technical Services jobs,6,2,0,0,0,32,3,15,2,0,5,9,1,41,12,2,6,17,1,5,4,1,0,0,1,23,8,5,2,9,1,0,10,1,7,19,7,0,0,15,4,3,0,0,3,4,10,2,21,1,0,8,0,1,0,10,0,66,1,0,6,1,7,420.0
+Management of Companies and Enterprises jobs,4,5,1,0,0,44,12,13,4,4,2,14,5,69,31,2,14,19,2,8,14,0,0,1,3,21,19,3,0,17,11,0,8,2,33,20,13,4,1,34,6,13,3,1,3,6,18,1,18,2,1,20,8,2,2,23,7,67,4,0,11,1,20,694.0
+Administration & Support Waste Management and Remediation jobs,1,1,0,0,0,3,1,4,0,0,1,0,0,6,0,0,1,1,0,1,2,2,0,0,0,2,0,0,0,1,3,0,1,0,3,2,1,1,0,4,1,0,0,0,1,0,2,0,3,0,0,1,0,1,1,3,0,3,0,1,0,1,2,62.0
+Educational Services jobs,2,0,2,0,1,4,1,4,2,0,5,1,6,7,5,0,0,2,0,3,9,0,0,0,0,23,11,0,1,1,0,0,1,0,7,1,1,0,0,7,0,0,0,0,4,5,3,0,4,0,1,4,0,1,10,2,1,4,0,0,8,0,2,156.0
+Health Care and Social Assistance jobs,9,0,0,1,0,14,1,41,4,1,8,5,2,16,7,0,4,32,1,3,14,0,0,3,1,20,29,0,2,6,1,0,4,0,7,7,18,7,3,17,1,3,1,0,1,1,11,0,8,0,1,9,3,1,0,10,1,8,5,0,3,1,4,360.0
+Arts Entertainment and Recreation jobs,0,0,0,0,0,4,0,1,0,1,0,1,1,5,0,0,0,3,0,0,1,0,0,0,0,0,0,0,0,2,0,0,2,0,2,1,1,0,0,1,0,2,0,0,0,2,1,0,6,0,2,0,0,0,1,0,1,2,0,0,0,1,1,45.0
+Accommodation and Food Services jobs,1,1,0,1,2,12,7,19,0,8,8,18,5,62,3,0,4,14,2,2,10,0,0,0,2,16,7,1,2,17,5,1,5,1,31,12,25,13,0,2,1,8,1,2,0,7,1,1,5,2,0,6,1,5,6,10,2,2,0,1,13,5,2,400.0
+Public Administration jobs,1,0,0,0,0,11,2,7,2,1,11,3,2,24,8,1,1,11,0,4,3,0,0,0,0,1,5,0,0,5,2,0,1,0,9,4,3,1,0,4,2,1,0,0,0,0,1,0,0,0,0,3,1,3,0,8,0,20,1,0,0,1,5,173.0
+Other Services (excluding Public Administration) jobs,0,0,0,0,0,7,2,13,1,1,1,2,1,24,7,1,6,7,2,3,0,0,0,0,0,4,4,1,0,3,3,0,3,1,6,7,3,0,2,8,1,3,2,1,2,2,3,0,5,1,0,2,0,3,3,2,2,11,2,0,3,2,4,177.0

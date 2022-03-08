@@ -1,0 +1,13 @@
+The order for the notebooks to be run:
+
+Web Scraping
+
+Cleaning
+
+Feature Engineering
+
+Aggregations
+	-Neighborhood
+	-Job Sector
+	-Company? (Do we keep this?)
+	-Labor Force
